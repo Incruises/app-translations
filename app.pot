@@ -1,0 +1,566 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "$100.00 per month"
+msgstr ""
+
+msgid "$195.00 Activation fee and $95.00 per year"
+msgstr ""
+
+msgid "Account Name"
+msgstr ""
+
+msgid "Account Setup"
+msgstr ""
+
+msgid "Account settings"
+msgstr ""
+
+msgid "Activate now"
+msgstr ""
+
+msgid "Add Contact"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Agreements and Important Forms"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Alternate Email"
+msgstr ""
+
+msgid "Alternate Phone"
+msgstr ""
+
+msgid ""
+"As a Partner you get the opportunity to earn compensation from spreading "
+"the word about inCruises®!\n"
+"                        You will also get access to world class marketing "
+"tools, live and recorded training, mobile applications, downloadable "
+"business cards, and much more."
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Be patient please..."
+msgstr ""
+
+msgid ""
+"Become a Cruising Member and enjoy the benefits of our exclusive membership "
+"with access to our select Incentive Dream Cruises and Global Destination "
+"Offers.\n"
+"                        $100.00 per month. No contracts. You can cancel "
+"anytime. 14-day money back guarantee on all purchases.\n"
+"\t\t\t\t\t\tYou earn $200 Cruise Dollars™ for every $100.00 in membership "
+"payments."
+msgstr ""
+
+msgid "Brochures, Presentations and Flyers"
+msgstr ""
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Check"
+msgstr ""
+
+msgid ""
+"Check out our upcoming events including webinars, meetings, and regional "
+"conventions."
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Click here"
+msgstr ""
+
+msgid "Completed"
+msgstr ""
+
+msgid "Completed Contacts"
+msgstr ""
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Confirm mail"
+msgstr ""
+
+msgid "Confirm password"
+msgstr ""
+
+msgid "Congratulations, now you just have to do login"
+msgstr ""
+
+msgid "Contacts"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Courses"
+msgstr ""
+
+msgid "Cruise Dollars"
+msgstr ""
+
+msgid "Cruising Member"
+msgstr ""
+
+msgid "Current Plan"
+msgstr ""
+
+msgid "DashBoard"
+msgstr ""
+
+msgid "Decide what email notifications you want to receive and what not."
+msgstr ""
+
+msgid "Deselect all"
+msgstr ""
+
+msgid "Documents"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "Facebook"
+msgstr ""
+
+msgid "Facebook Login"
+msgstr ""
+
+msgid "Female"
+msgstr ""
+
+msgid "First Name"
+msgstr ""
+
+msgid "Follow these simple steps to set up your inCruises account."
+msgstr ""
+
+msgid "Gender"
+msgstr ""
+
+msgid "German"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Import Contacts"
+msgstr ""
+
+msgid "Import to both"
+msgstr ""
+
+msgid "Import to device"
+msgstr ""
+
+msgid "Import to incruises"
+msgstr ""
+
+msgid "Import your mobile contacts to incruises."
+msgstr ""
+
+msgid "Incruises Contacts"
+msgstr ""
+
+msgid "Incruises login app"
+msgstr ""
+
+msgid "Information Center"
+msgstr ""
+
+msgid "Invitation has been sent!"
+msgstr ""
+
+msgid "Invite"
+msgstr ""
+
+msgid "Invite contact"
+msgstr ""
+
+msgid "Inviter"
+msgstr ""
+
+msgid "Italian"
+msgstr ""
+
+msgid "Korean"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Last Name"
+msgstr ""
+
+msgid "Learn the fundamentals of our business opportunity and Membership offer."
+msgstr ""
+
+msgid "Left Swipe"
+msgstr ""
+
+msgid "Legal"
+msgstr ""
+
+msgid "Link Facebook Account"
+msgstr ""
+
+msgid "Loading, please wait..."
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Male"
+msgstr ""
+
+msgid "Manage your subscriptions of your Partner and/or Member."
+msgstr ""
+
+msgid "Marital Status"
+msgstr ""
+
+msgid "Marketing"
+msgstr ""
+
+msgid "Married"
+msgstr ""
+
+msgid "Media"
+msgstr ""
+
+msgid "Membership Info"
+msgstr ""
+
+msgid "Membership Options"
+msgstr ""
+
+msgid "My Contacts"
+msgstr ""
+
+msgid "My Name Format"
+msgstr ""
+
+msgid "My Reach"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Nickname"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Non member"
+msgstr ""
+
+msgid "Not Read"
+msgstr ""
+
+msgid ""
+"Not a member, to use all the features of this application you must be a "
+"member.\n"
+"\t\t\t\t\t\tUpgrade today, click below and we will redirect you to "
+"incruises so you can make the payments."
+msgstr ""
+
+msgid "Notification"
+msgstr ""
+
+msgid "Notification Center"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+msgid "O'zbek"
+msgstr ""
+
+msgid "Ok"
+msgstr ""
+
+msgid "Overview"
+msgstr ""
+
+msgid "Partner"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password Confirmation"
+msgstr ""
+
+msgid ""
+"Password must be at least 8 characters long."
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr ""
+
+msgid "Payments"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Pending Contacts"
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Please confirm password"
+msgstr ""
+
+msgid "Please confirm your email"
+msgstr ""
+
+msgid "Please insert a valid email"
+msgstr ""
+
+msgid "Please insert password"
+msgstr ""
+
+msgid "Please insert the email."
+msgstr ""
+
+msgid "Please introduce your email"
+msgstr ""
+
+msgid "Please introduce your first name"
+msgstr ""
+
+msgid "Please introduce your last name"
+msgstr ""
+
+msgid "Please introduce your password"
+msgstr ""
+
+msgid "Please introduce your phone"
+msgstr ""
+
+msgid "Please wait..."
+msgstr ""
+
+msgid "Please you must insert a name type"
+msgstr ""
+
+msgid "Please you must insert email"
+msgstr ""
+
+msgid "Please you must insert language"
+msgstr ""
+
+msgid "Please you need linked your incruises account before using facebook login."
+msgstr ""
+
+msgid "Professional"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Profile Settings"
+msgstr ""
+
+msgid "Read"
+msgstr ""
+
+msgid ""
+"Ready to learn what you need to know to succeed BIG with inCruises™? Check "
+"out our library of videos with supporting documents."
+msgstr ""
+
+msgid "Referal Link"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove all"
+msgstr ""
+
+msgid "Remove read"
+msgstr ""
+
+msgid "Remove unread"
+msgstr ""
+
+msgid "Resources"
+msgstr ""
+
+msgid "Russian"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Saving data..."
+msgstr ""
+
+msgid ""
+"Search our library of Documents. There's marketing materials, compliance "
+"information and lots of helpful tips to help you build your business."
+msgstr ""
+
+msgid "See and manage your incruises contacts"
+msgstr ""
+
+msgid "See and manage your profile"
+msgstr ""
+
+msgid ""
+"See how far your Marketing REACH has spread all over the world and send new "
+"invitations."
+msgstr ""
+
+msgid "See the balance, credits and debits."
+msgstr ""
+
+msgid ""
+"See who has produced the most invitations, registrations, and upgraded "
+"partners in your team."
+msgstr ""
+
+msgid "Select all"
+msgstr ""
+
+msgid "Select contacts"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Single"
+msgstr ""
+
+msgid "Something was wrong, please try later, thanks."
+msgstr ""
+
+msgid "Spanish"
+msgstr ""
+
+msgid "Sponsor Name"
+msgstr ""
+
+msgid "State"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Subscriptions"
+msgstr ""
+
+msgid ""
+"Take a quick glance at everything important related to your inCruises™ "
+"business."
+msgstr ""
+
+msgid "Team Rankings"
+msgstr ""
+
+msgid "The document could not be open"
+msgstr ""
+
+msgid "Titles"
+msgstr ""
+
+msgid "Track result"
+msgstr ""
+
+msgid "Training"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Unique member code"
+msgstr ""
+
+msgid "Unread"
+msgstr ""
+
+msgid "Update profile"
+msgstr ""
+
+msgid ""
+"Use your Referral Link to grow your marketing REACH via email, text "
+"messages and even social media."
+msgstr ""
+
+msgid "Video, Images, and Other Links"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "View our 7 Rank Achievement Titles"
+msgstr ""
+
+msgid "We are configuring your data"
+msgstr ""
+
+msgid "Welcome"
+msgstr ""
+
+msgid "Widowed"
+msgstr ""
+
+msgid ""
+"Without this permission you will not be able to take advantage of the "
+"potential of the app,  Are you sure you want to deny?"
+msgstr ""
+
+msgid "Would you like to send an invitation to inCruises to this contact?"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "You have a new notification"
+msgstr ""
+
+msgid "You have canceled the invitation."
+msgstr ""
+
+msgid "Your facebook account has been linked with incruises."
+msgstr ""
+
+msgid "Zip Code"
+msgstr ""
+
+msgid "search"
+msgstr ""
