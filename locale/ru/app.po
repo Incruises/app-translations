@@ -1,0 +1,594 @@
+# Translators:
+# Irina Aronets <i.aronets@gmail.com>, 2019
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Irina Aronets <i.aronets@gmail.com>, 2019\n"
+"Language-Team: Russian (https://www.transifex.com/incruises/teams/55376/ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+msgid "$100.00 per month"
+msgstr "100$ в месяц "
+
+msgid "$195.00 Activation fee and $95.00 per year"
+msgstr " 195$  Плата за Активацию и  95$ на следующий год"
+
+msgid "Account Name"
+msgstr "Имя Пользователя"
+
+msgid "Account Setup"
+msgstr "Настройки Учетной Записи"
+
+msgid "Account settings"
+msgstr "Настройки Аккаунта"
+
+msgid "Activate now"
+msgstr "Активировать сейчас"
+
+msgid "Add Contact"
+msgstr "Добавить Контакт"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Agreements and Important Forms"
+msgstr "Соглашения и Важные Формы"
+
+msgid "All"
+msgstr "Все"
+
+msgid "Alternate Email"
+msgstr "Альтернативный Емейл"
+
+msgid "Alternate Phone"
+msgstr "Альтернативный Телефон"
+
+msgid ""
+"As a Partner you get the opportunity to earn compensation from spreading the word about inCruises®!\n"
+"                        You will also get access to world class marketing tools, live and recorded training, mobile applications, downloadable business cards, and much more."
+msgstr ""
+"Как Партнер, вы получаете возможность заработать компенсацию, распространяя информацию об inCruises®!\n"
+"                        Вы также получите доступ к маркетинговым инструментам мирового класса, живых вебинаров и записи обучающих тренингов, мобильные приложения, скачиваемые визитные карточки и многое другое."
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Be patient please..."
+msgstr "Будьте терпеливы, пожалуйста ..."
+
+msgid ""
+"Become a Cruising Member and enjoy the benefits of our exclusive membership with access to our select Incentive Dream Cruises and Global Destination Offers.\n"
+"                        $100.00 per month. No contracts. You can cancel anytime. 14-day money back guarantee on all purchases.\n"
+"\t\t\t\t\t\tYou earn $200 Cruise Dollars™ for every $100.00 in membership payments."
+msgstr ""
+"Станьте Членом Круизного клуба и пользуйтесь преимуществами эксклюзивного членства с доступом к нашей избранной программе Стимул Круизы ™ и Предложениями Глобальных Направлений.\n"
+"                        100$ в месяц. Нет контрактов. Вы можете отменить в любое время. 14-дневная гарантия возврата денег на все покупки.\n"
+"\t\t\t\t\t\tВы получите 200 Круизных Долларов на каждые 100$ Членских взносов."
+
+msgid "Brochures, Presentations and Flyers"
+msgstr "Брошюры, Презентации и Флайера"
+
+msgid "Calendar"
+msgstr "Календарь"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Check"
+msgstr "Проверьте"
+
+msgid ""
+"Check out our upcoming events including webinars, meetings, and regional "
+"conventions."
+msgstr ""
+"Проверьте наши запланированные мероприятия, включая вебинары, совещания и "
+"региональные конвенции."
+
+msgid "City"
+msgstr "Город"
+
+msgid "Clear"
+msgstr "Очистить"
+
+msgid "Click here"
+msgstr "Нажмите здесь"
+
+msgid "Completed"
+msgstr "Завершенный"
+
+msgid "Completed Contacts"
+msgstr "Заполненные Контакты"
+
+msgid "Confirm"
+msgstr "Подтвердить"
+
+msgid "Confirm mail"
+msgstr "Подтвердить почту"
+
+msgid "Confirm password"
+msgstr "Подтвердите пароль"
+
+msgid "Congratulations, now you just have to do login"
+msgstr "Поздравляем, теперь вам просто нужно войти под своим логином"
+
+msgid "Contacts"
+msgstr "Контакты"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "Courses"
+msgstr "Курсы"
+
+msgid "Cruise Dollars"
+msgstr "Круизные Доллары"
+
+msgid "Cruising Member"
+msgstr "Член Круизного Клуба"
+
+msgid "Current Plan"
+msgstr "Текущий План"
+
+msgid "DashBoard"
+msgstr "Панель Управления"
+
+msgid "Decide what email notifications you want to receive and what not."
+msgstr ""
+"Решите, на какой адрес электронной почты вы хотите получать уведомления и на"
+" какой из них нет."
+
+msgid "Deselect all"
+msgstr "Убрать выделение со всего"
+
+msgid "Documents"
+msgstr "Документы"
+
+msgid "Email"
+msgstr "Емейл"
+
+msgid "English"
+msgstr "Английский"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Facebook Login"
+msgstr "Войти в Facebook"
+
+msgid "Female"
+msgstr "Женщина"
+
+msgid "First Name"
+msgstr "Имя"
+
+msgid "Follow these simple steps to set up your inCruises account."
+msgstr "Следуйте этим простым шагам, чтобы настроить ваш inCruises аккаунт."
+
+msgid "Gender"
+msgstr "Пол"
+
+msgid "German"
+msgstr "Немецкий"
+
+msgid "Import"
+msgstr "Импорт"
+
+msgid "Import Contacts"
+msgstr "Импортировать Контакты"
+
+msgid "Import to both"
+msgstr "Импорт в оба"
+
+msgid "Import to device"
+msgstr "Импорт на устройство"
+
+msgid "Import to incruises"
+msgstr "Импорт в inСruises"
+
+msgid "Import your mobile contacts to incruises."
+msgstr "Импортируйте ваши мобильные контакты в incruises."
+
+msgid "Incruises Contacts"
+msgstr "Incruises Контакты"
+
+msgid "Incruises login app"
+msgstr "Incruises вход для приложения"
+
+msgid "Information Center"
+msgstr "Информационный Центр "
+
+msgid "Invitation has been sent!"
+msgstr "Приглашение отправлено!"
+
+msgid "Invite"
+msgstr "Пригласить "
+
+msgid "Invite contact"
+msgstr "Пригласить контакт"
+
+msgid "Inviter"
+msgstr "Приглашающий"
+
+msgid "Italian"
+msgstr "Итальянский"
+
+msgid "Korean"
+msgstr "Корейский"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Last Name"
+msgstr "Фамилия"
+
+msgid ""
+"Learn the fundamentals of our business opportunity and Membership offer."
+msgstr ""
+"Изучите основы нашей бизнес-возможности и предложение о клубном Членстве."
+
+msgid "Left Swipe"
+msgstr "Проведите Влево"
+
+msgid "Legal"
+msgstr "Легальный"
+
+msgid "Link Facebook Account"
+msgstr "Ссылка на Facebook"
+
+msgid "Loading, please wait..."
+msgstr "Загружается, подождите..."
+
+msgid "Login"
+msgstr "Войти"
+
+msgid "Male"
+msgstr "Мужчина"
+
+msgid "Manage your subscriptions of your Partner and/or Member."
+msgstr "Управление подписками вашего Членства и Партнерства."
+
+msgid "Marital Status"
+msgstr "Семейный Статус"
+
+msgid "Marketing"
+msgstr "Маркетинг"
+
+msgid "Married"
+msgstr "Замужем/Женат"
+
+msgid "Media"
+msgstr "Средства массовой информации"
+
+msgid "Membership Info"
+msgstr "Информация о Членстве"
+
+msgid "Membership Options"
+msgstr "Опции Членства в Клубе"
+
+msgid "My Contacts"
+msgstr "Мои Контакты"
+
+msgid "My Name Format"
+msgstr "Формат Моего Имени"
+
+msgid "My Reach"
+msgstr "Мои Достижения"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Nickname"
+msgstr "Псевдоним"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "Non member"
+msgstr "Не член клуба"
+
+msgid "Not Read"
+msgstr "Непрочитанные"
+
+msgid ""
+"Not a member, to use all the features of this application you must be a member.\n"
+"\t\t\t\t\t\tUpgrade today, click below and we will redirect you to incruises so you can make the payments."
+msgstr ""
+"Не участник клуба, чтобы использовать все функции этого приложения, вы должны быть участником клуба.\n"
+"\t\t\t\t\t\tОбновите сегодня, нажав ниже, и мы перенаправим вас на incruises, чтобы вы могли совершить оплату участия."
+
+msgid "Notification"
+msgstr "Уведомления"
+
+msgid "Notification Center"
+msgstr "Центр Уведомлений"
+
+msgid "Notifications"
+msgstr "Уведомления"
+
+msgid "O'zbek"
+msgstr "Узбекский"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Overview"
+msgstr "Обзор"
+
+msgid "Partner"
+msgstr "Партнер"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Password Confirmation"
+msgstr "Подтверждение Пароля"
+
+msgid "Password must be at least 8 characters long."
+msgstr "Пароль должен содержать не менее 8 символов."
+
+msgid "Passwords do not match"
+msgstr "Пароли не совпадают"
+
+msgid "Payments"
+msgstr "Платежи"
+
+msgid "Pending"
+msgstr "В Ожидании "
+
+msgid "Pending Contacts"
+msgstr "Контакты В Ожидании "
+
+msgid "Personal"
+msgstr "Личный"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Please confirm password"
+msgstr "Пожалуйста, подтвердите пароль"
+
+msgid "Please confirm your email"
+msgstr "Пожалуйста, подтвердите ваш емейл"
+
+msgid "Please insert a valid email"
+msgstr "Пожалуйста, введите действительный емейл"
+
+msgid "Please insert password"
+msgstr "Пожалуйста, введите пароль"
+
+msgid "Please insert the email."
+msgstr "Пожалуйста, введите емейл"
+
+msgid "Please introduce your email"
+msgstr "Пожалуйста, введите ваш адрес электронной почты"
+
+msgid "Please introduce your first name"
+msgstr "Пожалуйста, введите ваше имя"
+
+msgid "Please introduce your last name"
+msgstr "Пожалуйста, введите вашу фамилию"
+
+msgid "Please introduce your password"
+msgstr "Пожалуйста, введите ваш пароль"
+
+msgid "Please introduce your phone"
+msgstr "Пожалуйста, введите ваш телефон"
+
+msgid "Please wait..."
+msgstr "Пожалуйста, подождите..."
+
+msgid "Please you must insert a name type"
+msgstr "Пожалуйста, вы должны ввести тип имени"
+
+msgid "Please you must insert email"
+msgstr "Пожалуйста, вы должны ввести емейл"
+
+msgid "Please you must insert language"
+msgstr "Пожалуйста, вы должны выбрать язык"
+
+msgid ""
+"Please you need linked your incruises account before using facebook login."
+msgstr ""
+"Пожалуйста, подключите вашу учетную запись incruises с логином Facebook, "
+"прежде чем его использовать."
+
+msgid "Professional"
+msgstr "Профессиональный"
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "Profile Settings"
+msgstr "Настройки Профиля"
+
+msgid "Read"
+msgstr "Прочитанные"
+
+msgid ""
+"Ready to learn what you need to know to succeed BIG with inCruises™? Check "
+"out our library of videos with supporting documents."
+msgstr ""
+"Ознакомьтесь с информацией о том, что вам нужно знать, чтобы преуспеть с "
+"inCruises™. Посетите нашу видео-библиотеку со специально разработанными "
+"документами."
+
+msgid "Referal Link"
+msgstr "Реферальная Ссылка"
+
+msgid "Register"
+msgstr "Регистрация"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Remove all"
+msgstr "Удалить все"
+
+msgid "Remove read"
+msgstr "Удалить прочитанные"
+
+msgid "Remove unread"
+msgstr "Удалить непрочитанные"
+
+msgid "Resources"
+msgstr "Ресурсы"
+
+msgid "Russian"
+msgstr "Русский"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Saving data..."
+msgstr "Сохранение данных ..."
+
+msgid ""
+"Search our library of Documents. There's marketing materials, compliance "
+"information and lots of helpful tips to help you build your business."
+msgstr ""
+"Просмотрите нашу библиотеку Документов. Там предоставлены маркетинговые "
+"материалы, дополнительная информация и много полезных советов, чтобы помочь "
+"вам построить свой бизнес."
+
+msgid "See and manage your incruises contacts"
+msgstr "Посмотреть и управлять вашими incruises контактами"
+
+msgid "See and manage your profile"
+msgstr "Смотрите и управляйте своим профилем"
+
+msgid ""
+"See how far your Marketing REACH has spread all over the world and send new "
+"invitations."
+msgstr ""
+"Посмотрите, насколько ваши Маркетинговые ДОСТИЖЕНИЯ распространились по "
+"всему миру и отправьте новые приглашения."
+
+msgid "See the balance, credits and debits."
+msgstr "Посмотреть ваш баланс, кредиты и задолженности."
+
+msgid ""
+"See who has produced the most invitations, registrations, and upgraded "
+"partners in your team."
+msgstr ""
+"Посмотреть, кто осуществил больше приглашений, регистраций, а также "
+"обновление  партнеров в вашей команде."
+
+msgid "Select all"
+msgstr "Выбрать все"
+
+msgid "Select contacts"
+msgstr "Выберите Контакты"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Single"
+msgstr "Одинокий"
+
+msgid "Something was wrong, please try later, thanks."
+msgstr "Произошла ошибка. Пожалуйста, повторите попытку позже, спасибо."
+
+msgid "Spanish"
+msgstr "Испанский"
+
+msgid "Sponsor Name"
+msgstr "Имя Спонсора"
+
+msgid "State"
+msgstr "Штат:"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Subscriptions"
+msgstr "Подписки"
+
+msgid ""
+"Take a quick glance at everything important related to your inCruises™ "
+"business."
+msgstr "Кратко обо всем самом важном в вашем бизнесе inCruises™."
+
+msgid "Team Rankings"
+msgstr "Командный Рейтинг"
+
+msgid "The document could not be open"
+msgstr "Документ не может быть открыт"
+
+msgid "Titles"
+msgstr "Звания"
+
+msgid "Track result"
+msgstr "Отслеживание Результатов"
+
+msgid "Training"
+msgstr "Обучение"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Unique member code"
+msgstr "Уникальный Членский Код:"
+
+msgid "Unread"
+msgstr "Непрочитанные"
+
+msgid "Update profile"
+msgstr "Обновить профиль"
+
+msgid ""
+"Use your Referral Link to grow your marketing REACH via email, text messages"
+" and even social media."
+msgstr ""
+"Используйте вашу Реферальную Ссылку, чтобы увеличить ваши маркетинговые "
+"ДОСТИЖЕНИЯ по электронной почте, текстовым сообщениям и даже социальным "
+"медиа."
+
+msgid "Video, Images, and Other Links"
+msgstr "Видео, Изображения и Другие Ссылки"
+
+msgid "View"
+msgstr "Посмотреть"
+
+msgid "View our 7 Rank Achievement Titles"
+msgstr "Посмотрите наши 7 Званий по Достижению Рангов"
+
+msgid "We are configuring your data"
+msgstr "Мы настраиваем ваши данные"
+
+msgid "Welcome"
+msgstr "Приветствуем"
+
+msgid "Widowed"
+msgstr "Вдовец"
+
+msgid ""
+"Without this permission you will not be able to take advantage of the "
+"potential of the app,  Are you sure you want to deny?"
+msgstr ""
+"Без этого разрешения вы не сможете использовать потенциал приложения. Вы "
+"уверены, что хотите от него отказаться?"
+
+msgid "Would you like to send an invitation to inCruises to this contact?"
+msgstr "Вы хотите отправить приглашение inCruises этому контакту?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "You have a new notification"
+msgstr "У вас есть новое уведомление"
+
+msgid "You have canceled the invitation."
+msgstr "Вы отменили приглашение."
+
+msgid "Your facebook account has been linked with incruises."
+msgstr "Ваш Facebook аккаунт связан с incruises."
+
+msgid "Zip Code"
+msgstr "Индекс"
+
+msgid "search"
+msgstr "поиск"

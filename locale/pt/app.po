@@ -1,0 +1,595 @@
+# Translators:
+# Lilian Alves <lii_alves@hotmail.com>, 2019
+# Leonardo Scalia Vasconcelos <scalia@agrnow.com.br>, 2019
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Leonardo Scalia Vasconcelos <scalia@agrnow.com.br>, 2019\n"
+"Language-Team: Portuguese (https://www.transifex.com/incruises/teams/55376/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "$100.00 per month"
+msgstr "$100.00 por mês"
+
+msgid "$195.00 Activation fee and $95.00 per year"
+msgstr "$195.00 de taxa de ativação e $95.00 de taxa anual"
+
+msgid "Account Name"
+msgstr "Nome da conta"
+
+msgid "Account Setup"
+msgstr "Configuração da conta"
+
+msgid "Account settings"
+msgstr "Configurações da conta"
+
+msgid "Activate now"
+msgstr "Ative agora"
+
+msgid "Add Contact"
+msgstr "Adicionar contato"
+
+msgid "Address"
+msgstr "Endereço"
+
+msgid "Agreements and Important Forms"
+msgstr "Acordos e Formulários Importantes"
+
+msgid "All"
+msgstr "Tudo"
+
+msgid "Alternate Email"
+msgstr "Email Alternativo"
+
+msgid "Alternate Phone"
+msgstr "Telefone Alternativo"
+
+msgid ""
+"As a Partner you get the opportunity to earn compensation from spreading the word about inCruises®!\n"
+"                        You will also get access to world class marketing tools, live and recorded training, mobile applications, downloadable business cards, and much more."
+msgstr ""
+"Como Sócio você tem a oportunidade de ganhar comissões ao divulgar a inCruises®!\n"
+"Você também terá acesso a ferramentas de marketing de classe mundial, treinamentos ao vivo e gravados, aplicativos móveis, cartões de visita para download e muito mais."
+
+msgid "Back"
+msgstr "Voltar"
+
+msgid "Be patient please..."
+msgstr "Seja paciente, por favor..."
+
+msgid ""
+"Become a Cruising Member and enjoy the benefits of our exclusive membership with access to our select Incentive Dream Cruises and Global Destination Offers.\n"
+"                        $100.00 per month. No contracts. You can cancel anytime. 14-day money back guarantee on all purchases.\n"
+"\t\t\t\t\t\tYou earn $200 Cruise Dollars™ for every $100.00 in membership payments."
+msgstr ""
+"Torne-se um Membro da InCruises e aproveite os benefícios da nossa associação exclusiva com acesso aos nossos seletos Cruzeiros de Incentivo e nossas Ofertas de Destinos Globais.\n"
+" $ 100.00 por mês. Nenhum contrato. Você pode cancelar a qualquer momento. Garantia de reembolso de 14 dias em todas as compras.\n"
+"\t\t\t\t\t\tVocê ganha $ 200 Cruise Dollars™ para cada $ 100.00 em pagamentos da assinatura."
+
+msgid "Brochures, Presentations and Flyers"
+msgstr "Cadernos, Apresentações e Folhetos"
+
+msgid "Calendar"
+msgstr "Calendário"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Check"
+msgstr "Verificar"
+
+msgid ""
+"Check out our upcoming events including webinars, meetings, and regional "
+"conventions."
+msgstr ""
+"Confira nossos próximos eventos, incluindo seminários on-line, reuniões e "
+"convenções regionais."
+
+msgid "City"
+msgstr "Cidade"
+
+msgid "Clear"
+msgstr "Limpar"
+
+msgid "Click here"
+msgstr "Clique aqui"
+
+msgid "Completed"
+msgstr "Concluído"
+
+msgid "Completed Contacts"
+msgstr "Contatos concluídos"
+
+msgid "Confirm"
+msgstr "Confirmar"
+
+msgid "Confirm mail"
+msgstr "Confirmar email"
+
+msgid "Confirm password"
+msgstr "Confirmar senha"
+
+msgid "Congratulations, now you just have to do login"
+msgstr "Parabéns, agora você só precisa fazer seu login"
+
+msgid "Contacts"
+msgstr "Contatos"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Courses"
+msgstr "Cursos"
+
+msgid "Cruise Dollars"
+msgstr "Cruise Dollars"
+
+msgid "Cruising Member"
+msgstr "Membro de Cruzeiros"
+
+msgid "Current Plan"
+msgstr "Plano atual"
+
+msgid "DashBoard"
+msgstr "Painel de controle"
+
+msgid "Decide what email notifications you want to receive and what not."
+msgstr "Decida quais notificações de email você deseja receber e quais não."
+
+msgid "Deselect all"
+msgstr "Desmarcar todos"
+
+msgid "Documents"
+msgstr "Documentos"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "English"
+msgstr "Inglês"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Facebook Login"
+msgstr "Login do Facebook"
+
+msgid "Female"
+msgstr "Feminino"
+
+msgid "First Name"
+msgstr "Primeiro nome"
+
+msgid "Follow these simple steps to set up your inCruises account."
+msgstr "Siga estes passos simples para configurar sua conta InCruises."
+
+msgid "Gender"
+msgstr "Gênero"
+
+msgid "German"
+msgstr "Alemão"
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "Import Contacts"
+msgstr "Importar Contatos"
+
+msgid "Import to both"
+msgstr "Importar para ambos"
+
+msgid "Import to device"
+msgstr "Importar para o dispositivo"
+
+msgid "Import to incruises"
+msgstr "Importar para InCruises"
+
+msgid "Import your mobile contacts to incruises."
+msgstr "Importar seus contatos móveis para a InCruises."
+
+msgid "Incruises Contacts"
+msgstr "Contatos InCruises"
+
+msgid "Incruises login app"
+msgstr "Login no app InCruises"
+
+msgid "Information Center"
+msgstr "Centro de Informação"
+
+msgid "Invitation has been sent!"
+msgstr "Convite foi enviado!"
+
+msgid "Invite"
+msgstr "Convidar"
+
+msgid "Invite contact"
+msgstr "Convidar Contatos"
+
+msgid "Inviter"
+msgstr "Quem convida"
+
+msgid "Italian"
+msgstr "Italiano"
+
+msgid "Korean"
+msgstr "Coreano"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Last Name"
+msgstr "Último Nome"
+
+msgid ""
+"Learn the fundamentals of our business opportunity and Membership offer."
+msgstr ""
+"Aprenda os fundamentos da nossa oportunidade de negócio e da nossa oferta de"
+" associação."
+
+msgid "Left Swipe"
+msgstr "Deslize para a esquerda"
+
+msgid "Legal"
+msgstr "Legal"
+
+msgid "Link Facebook Account"
+msgstr "Vincular conta do Facebook"
+
+msgid "Loading, please wait..."
+msgstr "Carregando, por favor aguarde..."
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Male"
+msgstr "Masculino"
+
+msgid "Manage your subscriptions of your Partner and/or Member."
+msgstr "Gerencie as assinaturas de seus sócios e/ou membros."
+
+msgid "Marital Status"
+msgstr "Estado Civil"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Married"
+msgstr "Casado"
+
+msgid "Media"
+msgstr "Mídias "
+
+msgid "Membership Info"
+msgstr "Informações de Associação"
+
+msgid "Membership Options"
+msgstr "Opções de Associação"
+
+msgid "My Contacts"
+msgstr "Meus Contatos"
+
+msgid "My Name Format"
+msgstr "Meu formato de nome"
+
+msgid "My Reach"
+msgstr "Meu Alcance"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Nickname"
+msgstr "Apelido"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Non member"
+msgstr "Não membro"
+
+msgid "Not Read"
+msgstr "Não lido"
+
+msgid ""
+"Not a member, to use all the features of this application you must be a member.\n"
+"\t\t\t\t\t\tUpgrade today, click below and we will redirect you to incruises so you can make the payments."
+msgstr ""
+"Você ainda não é um membro, para usar todos os recursos deste aplicativo você deve ser um membro.\n"
+"\t\t\t\t\t\tFaça seu upgrade hoje, clique abaixo e nós o redirecionaremos para a Incruises para que você possa efetuar os pagamentos."
+
+msgid "Notification"
+msgstr "Notificação"
+
+msgid "Notification Center"
+msgstr "Centro de Notificação"
+
+msgid "Notifications"
+msgstr "Notificações"
+
+msgid "O'zbek"
+msgstr "Uzbeque"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Overview"
+msgstr "Visão geral"
+
+msgid "Partner"
+msgstr "Sócio"
+
+msgid "Password"
+msgstr "Senha"
+
+msgid "Password Confirmation"
+msgstr "Confirmação da senha"
+
+msgid "Password must be at least 8 characters long."
+msgstr "A senha deve ter pelo menos 8 caracteres."
+
+msgid "Passwords do not match"
+msgstr "As senhas não coincidem"
+
+msgid "Payments"
+msgstr "Pagamentos"
+
+msgid "Pending"
+msgstr "Pendente"
+
+msgid "Pending Contacts"
+msgstr "Contatos pendentes"
+
+msgid "Personal"
+msgstr "Pessoal"
+
+msgid "Phone"
+msgstr "Telefone"
+
+msgid "Please confirm password"
+msgstr "Por favor, confirme a senha"
+
+msgid "Please confirm your email"
+msgstr "Por favor, confirme seu email"
+
+msgid "Please insert a valid email"
+msgstr "Por favor, insira um email válido "
+
+msgid "Please insert password"
+msgstr "Por favor, insira a senha "
+
+msgid "Please insert the email."
+msgstr "Por favor, insira o email"
+
+msgid "Please introduce your email"
+msgstr "Por favor, insira seu email"
+
+msgid "Please introduce your first name"
+msgstr "Por favor, insira seu primeiro nome"
+
+msgid "Please introduce your last name"
+msgstr "Por favor, insira seu último nome"
+
+msgid "Please introduce your password"
+msgstr "Por favor, insira sua senha"
+
+msgid "Please introduce your phone"
+msgstr "Por favor, insira seu telefone"
+
+msgid "Please wait..."
+msgstr "Por favor aguarde..."
+
+msgid "Please you must insert a name type"
+msgstr "Por favor, você deve inserir um tipo de nome"
+
+msgid "Please you must insert email"
+msgstr "Por favor, você deve inserir um email"
+
+msgid "Please you must insert language"
+msgstr "Por favor, você deve inserir o idioma"
+
+msgid ""
+"Please you need linked your incruises account before using facebook login."
+msgstr ""
+"Por favor, você precisa vincular sua conta da Incruises antes de usar o "
+"login do Facebook."
+
+msgid "Professional"
+msgstr "Profissional"
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Profile Settings"
+msgstr "Configurações de perfil"
+
+msgid "Read"
+msgstr "Ler"
+
+msgid ""
+"Ready to learn what you need to know to succeed BIG with inCruises™? Check "
+"out our library of videos with supporting documents."
+msgstr ""
+"Pronto para aprender o que você precisa saber para ter um GRANDE sucesso com"
+" a InCruises™? Confira nossa biblioteca de vídeos com documentos de apoio."
+
+msgid "Referal Link"
+msgstr "Link de referência"
+
+msgid "Register"
+msgstr "Registrar"
+
+msgid "Remove"
+msgstr "Remover"
+
+msgid "Remove all"
+msgstr "Remover tudo"
+
+msgid "Remove read"
+msgstr "Remover lidos"
+
+msgid "Remove unread"
+msgstr "Remover não lidos"
+
+msgid "Resources"
+msgstr "Recursos"
+
+msgid "Russian"
+msgstr "Russo"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Saving data..."
+msgstr "Salvando dados..."
+
+msgid ""
+"Search our library of Documents. There's marketing materials, compliance "
+"information and lots of helpful tips to help you build your business."
+msgstr ""
+"Pesquise nossa biblioteca de documentos. Existem materiais de marketing, "
+"informações de conformidade e muitas dicas úteis para ajudar você a criar "
+"seu negócio."
+
+msgid "See and manage your incruises contacts"
+msgstr "Veja e gerencie seus contatos da InCruises"
+
+msgid "See and manage your profile"
+msgstr "Veja e gerencie seu perfil"
+
+msgid ""
+"See how far your Marketing REACH has spread all over the world and send new "
+"invitations."
+msgstr ""
+"Veja até que ponto o seu ALCANCE de marketing se espalhou por todo o mundo e"
+" envie novos convites."
+
+msgid "See the balance, credits and debits."
+msgstr "Veja o saldo, créditos e débitos."
+
+msgid ""
+"See who has produced the most invitations, registrations, and upgraded "
+"partners in your team."
+msgstr ""
+"Veja quem produziu mais convites, inscrições e sócios com upgrade em sua "
+"equipe."
+
+msgid "Select all"
+msgstr "Selecione tudo"
+
+msgid "Select contacts"
+msgstr "Selecione Contatos"
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "Single"
+msgstr "Solteiro"
+
+msgid "Something was wrong, please try later, thanks."
+msgstr ""
+"Alguma coisa deu errado, por favor tente novamente mais tarde, obrigado."
+
+msgid "Spanish"
+msgstr "Espanhol"
+
+msgid "Sponsor Name"
+msgstr "Nome do Patrocinador "
+
+msgid "State"
+msgstr "Estado"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Subscriptions"
+msgstr "Assinaturas"
+
+msgid ""
+"Take a quick glance at everything important related to your inCruises™ "
+"business."
+msgstr ""
+"Dê uma olhada rápida em tudo que é importante relacionado ao seu negócio "
+"inCruises™."
+
+msgid "Team Rankings"
+msgstr "Rankings da Equipe"
+
+msgid "The document could not be open"
+msgstr "O documento não pôde ser aberto"
+
+msgid "Titles"
+msgstr "Títulos"
+
+msgid "Track result"
+msgstr "Acompanhar resultado"
+
+msgid "Training"
+msgstr "Treinamento"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Unique member code"
+msgstr "Código único de membro"
+
+msgid "Unread"
+msgstr "Não lido"
+
+msgid "Update profile"
+msgstr "Atualizar perfil"
+
+msgid ""
+"Use your Referral Link to grow your marketing REACH via email, text messages"
+" and even social media."
+msgstr ""
+"Use o seu link de referência para aumentar o seu alcance via email, "
+"mensagens de texto e até mesmo mídias sociais."
+
+msgid "Video, Images, and Other Links"
+msgstr "Vídeo, imagens e outros links"
+
+msgid "View"
+msgstr "Visão"
+
+msgid "View our 7 Rank Achievement Titles"
+msgstr "Veja nossos 7 títulos de conquista de rank"
+
+msgid "We are configuring your data"
+msgstr "Estamos configurando seus dados"
+
+msgid "Welcome"
+msgstr "Bem-vindo"
+
+msgid "Widowed"
+msgstr "Viúva"
+
+msgid ""
+"Without this permission you will not be able to take advantage of the "
+"potential of the app,  Are you sure you want to deny?"
+msgstr ""
+"Sem essa permissão você não poderá aproveitar o potencial do aplicativo. Tem"
+" certeza de que deseja negar?"
+
+msgid "Would you like to send an invitation to inCruises to this contact?"
+msgstr "Gostaria de enviar um convite da inCruises para este contato?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "You have a new notification"
+msgstr "Você tem uma nova notificação"
+
+msgid "You have canceled the invitation."
+msgstr "Você cancelou o convite."
+
+msgid "Your facebook account has been linked with incruises."
+msgstr "Sua conta do Facebook foi associada a InCruises."
+
+msgid "Zip Code"
+msgstr "CEP"
+
+msgid "search"
+msgstr "procurar"

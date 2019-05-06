@@ -1,0 +1,586 @@
+# Translators:
+# Emanuel Sandu Barbu <wevoln@yahoo.com>, 2018
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Emanuel Sandu Barbu <wevoln@yahoo.com>, 2018\n"
+"Language-Team: Romanian (https://www.transifex.com/incruises/teams/55376/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+msgid "$100.00 per month"
+msgstr ""
+
+msgid "$195.00 Activation fee and $95.00 per year"
+msgstr ""
+
+msgid "Account Name"
+msgstr "Numele de cont"
+
+msgid "Account Setup"
+msgstr "Configurarea contului"
+
+msgid "Account settings"
+msgstr ""
+
+msgid "Activate now"
+msgstr "Activaţi acum"
+
+msgid "Add Contact"
+msgstr "Adaugă contact"
+
+msgid "Address"
+msgstr ""
+
+msgid "Agreements and Important Forms"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Alternate Email"
+msgstr ""
+
+msgid "Alternate Phone"
+msgstr ""
+
+msgid ""
+"As a Partner you get the opportunity to earn compensation from spreading the word about inCruises®!\n"
+"                        You will also get access to world class marketing tools, live and recorded training, mobile applications, downloadable business cards, and much more."
+msgstr ""
+"Ca Partener, ai ocazia de a dobândi compensaţii pentru faptul de a spune şi altora despre inCruises®!\n"
+"                        Vei căpăta de asemenea acces la unelte de marketing de nivel mondial, training live şi înregistrat, aplicaţii pentru mobil, cărţi de vizită care se pot descărca de pe site şi mult mai multe."
+
+msgid "Back"
+msgstr ""
+
+msgid "Be patient please..."
+msgstr "Vă rugăm să aveţi răbdare..."
+
+msgid ""
+"Become a Cruising Member and enjoy the benefits of our exclusive membership with access to our select Incentive Dream Cruises and Global Destination Offers.\n"
+"                        $100.00 per month. No contracts. You can cancel anytime. 14-day money back guarantee on all purchases.\n"
+"\t\t\t\t\t\tYou earn $200 Cruise Dollars™ for every $100.00 in membership payments."
+msgstr ""
+"Devino un Membru în Clubul pentru Croaziere şi bucură-te de beneficiile Clubului nostru exclusivist, cu acces la Croazierele noastre de vis stimulative selecte şi ofertele cu Destinaţii Globale.\n"
+"                        100.00$ pe lună. Fără niciun contract. Poţi anula în orice moment. Garanţia returnării banilor în termen de 14 zile pentru toate achiziţiile.\n"
+"\t\t\t\t\t\tPrimeşti 200$ Dolari de Croazieră™ pentru fiecare 100.00$ achitată ca şi taxă de membru lunară."
+
+msgid "Brochures, Presentations and Flyers"
+msgstr ""
+
+msgid "Calendar"
+msgstr "Calendar"
+
+msgid "Cancel"
+msgstr "Anulează"
+
+msgid "Check"
+msgstr ""
+
+msgid ""
+"Check out our upcoming events including webinars, meetings, and regional "
+"conventions."
+msgstr ""
+"Vedeţi care sunt următoarele noastre evenimente, inclusiv webinariile, "
+"întâlnirile şi convenţiile regionale."
+
+msgid "City"
+msgstr ""
+
+msgid "Clear"
+msgstr "Achitat"
+
+msgid "Click here"
+msgstr ""
+
+msgid "Completed"
+msgstr "Completat"
+
+msgid "Completed Contacts"
+msgstr "Contacte încheiate"
+
+msgid "Confirm"
+msgstr "Confirmă"
+
+msgid "Confirm mail"
+msgstr ""
+
+msgid "Confirm password"
+msgstr ""
+
+msgid "Congratulations, now you just have to do login"
+msgstr "Felicitări, acum nu mai trebuie decât să te conectezi."
+
+msgid "Contacts"
+msgstr "Contacte"
+
+msgid "Country"
+msgstr "Ţara"
+
+msgid "Courses"
+msgstr "Cursuri"
+
+msgid "Cruise Dollars"
+msgstr ""
+
+msgid "Cruising Member"
+msgstr "Membru care merge în croazieră"
+
+msgid "Current Plan"
+msgstr "Planul curent"
+
+msgid "DashBoard"
+msgstr "Tablou de bord"
+
+msgid "Decide what email notifications you want to receive and what not."
+msgstr "Decide ce înştiinţări prin email doreşti să primeşti şi pe care nu."
+
+msgid "Deselect all"
+msgstr "Deselectează tot"
+
+msgid "Documents"
+msgstr ""
+
+msgid "Email"
+msgstr "Email"
+
+msgid "English"
+msgstr "Engleză"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Facebook Login"
+msgstr "Conectare Facebook"
+
+msgid "Female"
+msgstr "Feminin"
+
+msgid "First Name"
+msgstr ""
+
+msgid "Follow these simple steps to set up your inCruises account."
+msgstr "Urmează aceşti paşi simpli pentru a-ţi configura contul inCruises."
+
+msgid "Gender"
+msgstr "Sex"
+
+msgid "German"
+msgstr "Germană"
+
+msgid "Import"
+msgstr "Importă"
+
+msgid "Import Contacts"
+msgstr "Importă Contacte"
+
+msgid "Import to both"
+msgstr ""
+
+msgid "Import to device"
+msgstr ""
+
+msgid "Import to incruises"
+msgstr ""
+
+msgid "Import your mobile contacts to incruises."
+msgstr "Importă contactele tale de pe mobil în inCruises."
+
+msgid "Incruises Contacts"
+msgstr "Contacte inCruises"
+
+msgid "Incruises login app"
+msgstr "Aplicaţia de conectare inCruises"
+
+msgid "Information Center"
+msgstr "Centrul de informare"
+
+msgid "Invitation has been sent!"
+msgstr ""
+
+msgid "Invite"
+msgstr ""
+
+msgid "Invite contact"
+msgstr ""
+
+msgid "Inviter"
+msgstr "Trimite invitaţii"
+
+msgid "Italian"
+msgstr "Italiană"
+
+msgid "Korean"
+msgstr "Coreană"
+
+msgid "Language"
+msgstr ""
+
+msgid "Last Name"
+msgstr ""
+
+msgid ""
+"Learn the fundamentals of our business opportunity and Membership offer."
+msgstr ""
+"Învaţă lucrurile de bază despre ocazia noastră de afacere şi oferta de a "
+"deveni Membru."
+
+msgid "Left Swipe"
+msgstr "Trageţi cu degetul spre stânga"
+
+msgid "Legal"
+msgstr ""
+
+msgid "Link Facebook Account"
+msgstr "Conectează contul Facebook."
+
+msgid "Loading, please wait..."
+msgstr ""
+
+msgid "Login"
+msgstr "Conectare"
+
+msgid "Male"
+msgstr "Masculin"
+
+msgid "Manage your subscriptions of your Partner and/or Member."
+msgstr ""
+
+msgid "Marital Status"
+msgstr ""
+
+msgid "Marketing"
+msgstr ""
+
+msgid "Married"
+msgstr "Căsătorit(ă)"
+
+msgid "Media"
+msgstr ""
+
+msgid "Membership Info"
+msgstr "Informaţiile despre Membru"
+
+msgid "Membership Options"
+msgstr "Opţiuni ca Membru"
+
+msgid "My Contacts"
+msgstr "Contactele mele"
+
+msgid "My Name Format"
+msgstr ""
+
+msgid "My Reach"
+msgstr "Reţeaua mea"
+
+msgid "Name"
+msgstr ""
+
+msgid "Nickname"
+msgstr "Nickname"
+
+msgid "No"
+msgstr "Nu"
+
+msgid "Non member"
+msgstr "Nu este membru"
+
+msgid "Not Read"
+msgstr ""
+
+msgid ""
+"Not a member, to use all the features of this application you must be a member.\n"
+"\t\t\t\t\t\tUpgrade today, click below and we will redirect you to incruises so you can make the payments."
+msgstr ""
+"Nu sunteţi Membru, iar pentru a folosi toate elementele acestei aplicaţii, trebuie să fiţi Membru.\n"
+"\t\t\t\t\t\tFaceţi upgrade astăzi, daţi click mai jos şi vă vom redirecţiona la inCruises ca să puteţi efectua plăţile."
+
+msgid "Notification"
+msgstr "Notificare"
+
+msgid "Notification Center"
+msgstr "Centrul pentru notificări"
+
+msgid "Notifications"
+msgstr "Notificări"
+
+msgid "O'zbek"
+msgstr "Uzbekă"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Overview"
+msgstr "Prezentare generală"
+
+msgid "Partner"
+msgstr "Partener"
+
+msgid "Password"
+msgstr "Parolă"
+
+msgid "Password Confirmation"
+msgstr ""
+
+msgid "Password must be at least 8 characters long."
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr "Parolele nu se potrivesc."
+
+msgid "Payments"
+msgstr "Plăţi"
+
+msgid "Pending"
+msgstr "În aşteptare"
+
+msgid "Pending Contacts"
+msgstr "Contacte în aşteptare"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Phone"
+msgstr ""
+
+msgid "Please confirm password"
+msgstr ""
+
+msgid "Please confirm your email"
+msgstr ""
+
+msgid "Please insert a valid email"
+msgstr "Vă rugăm să introduceţi un email valabil"
+
+msgid "Please insert password"
+msgstr "Vă rugăm să introduceţi parola"
+
+msgid "Please insert the email."
+msgstr "Vă rugăm să introduceţi emailul."
+
+msgid "Please introduce your email"
+msgstr ""
+
+msgid "Please introduce your first name"
+msgstr ""
+
+msgid "Please introduce your last name"
+msgstr ""
+
+msgid "Please introduce your password"
+msgstr ""
+
+msgid "Please introduce your phone"
+msgstr ""
+
+msgid "Please wait..."
+msgstr "Vă rugăm să aşteptaţi"
+
+msgid "Please you must insert a name type"
+msgstr "Vă rugăm să introduceţi un tip de nume"
+
+msgid "Please you must insert email"
+msgstr "Trebuie să introduceţi emailul"
+
+msgid "Please you must insert language"
+msgstr "Trebuie să setaţi limba"
+
+msgid ""
+"Please you need linked your incruises account before using facebook login."
+msgstr ""
+"Vă rugăm să vă conectaţi la contul dvs. inCruises înainte de a vă conecta la"
+" Facebook."
+
+msgid "Professional"
+msgstr "Profesional"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Profile Settings"
+msgstr "Setările de profil"
+
+msgid "Read"
+msgstr ""
+
+msgid ""
+"Ready to learn what you need to know to succeed BIG with inCruises™? Check "
+"out our library of videos with supporting documents."
+msgstr ""
+
+msgid "Referal Link"
+msgstr ""
+
+msgid "Register"
+msgstr "Înregistrează-te"
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove all"
+msgstr ""
+
+msgid "Remove read"
+msgstr ""
+
+msgid "Remove unread"
+msgstr ""
+
+msgid "Resources"
+msgstr "Resurse"
+
+msgid "Russian"
+msgstr "Rusă"
+
+msgid "Save"
+msgstr "Salvează"
+
+msgid "Saving data..."
+msgstr ""
+
+msgid ""
+"Search our library of Documents. There's marketing materials, compliance "
+"information and lots of helpful tips to help you build your business."
+msgstr ""
+
+msgid "See and manage your incruises contacts"
+msgstr "Vezi şi gestionează contactele tale inCruises."
+
+msgid "See and manage your profile"
+msgstr "Vezi şi gestionează profilul tău."
+
+msgid ""
+"See how far your Marketing REACH has spread all over the world and send new "
+"invitations."
+msgstr ""
+"Vezi cât de mult s-a extins REŢEAUA ta de marketing în toată lumea şi "
+"trimite invitaţii noi."
+
+msgid "See the balance, credits and debits."
+msgstr "Vezi soldul, creditul şi debitul. "
+
+msgid ""
+"See who has produced the most invitations, registrations, and upgraded "
+"partners in your team."
+msgstr ""
+"Vezi cine a realizat cele mai multe invitaţii, înregistrări şi activări de "
+"parteneri în echipa ta."
+
+msgid "Select all"
+msgstr "Selectează tot"
+
+msgid "Select contacts"
+msgstr "Selectează contacte"
+
+msgid "Settings"
+msgstr "Setări"
+
+msgid "Single"
+msgstr "Necăsătorit(ă)"
+
+msgid "Something was wrong, please try later, thanks."
+msgstr ""
+
+msgid "Spanish"
+msgstr "Spaniolă"
+
+msgid "Sponsor Name"
+msgstr "Numele Sponsorului"
+
+msgid "State"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Subscriptions"
+msgstr "Înregistrări ca"
+
+msgid ""
+"Take a quick glance at everything important related to your inCruises™ "
+"business."
+msgstr ""
+"Aruncă o privire rapidă peste tot ce este important legat de afacerea ta "
+"inCruises™."
+
+msgid "Team Rankings"
+msgstr "Nivelurile atinse de echipă"
+
+msgid "The document could not be open"
+msgstr "Documentul nu a putut fi deschis"
+
+msgid "Titles"
+msgstr "Titluri"
+
+msgid "Track result"
+msgstr "Urmăreşte rezultatul"
+
+msgid "Training"
+msgstr "Training"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "Unique member code"
+msgstr "Cod unic de Membru"
+
+msgid "Unread"
+msgstr ""
+
+msgid "Update profile"
+msgstr "Actualizaţi profilul"
+
+msgid ""
+"Use your Referral Link to grow your marketing REACH via email, text messages"
+" and even social media."
+msgstr ""
+
+msgid "Video, Images, and Other Links"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "View our 7 Rank Achievement Titles"
+msgstr "Vezi cele 7 titluri de trepte de carieră"
+
+msgid "We are configuring your data"
+msgstr ""
+
+msgid "Welcome"
+msgstr "Bun venit"
+
+msgid "Widowed"
+msgstr "Văduv(ă)"
+
+msgid ""
+"Without this permission you will not be able to take advantage of the "
+"potential of the app,  Are you sure you want to deny?"
+msgstr ""
+"Fără această permisiune nu vei putea beneficia de potenţialul aplicaţiei. "
+"Sunteţi sigur că vreţi să refuzaţi permisiunea?"
+
+msgid "Would you like to send an invitation to inCruises to this contact?"
+msgstr ""
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "You have a new notification"
+msgstr ""
+
+msgid "You have canceled the invitation."
+msgstr "Aţi anulat invitaţia."
+
+msgid "Your facebook account has been linked with incruises."
+msgstr "Contul tău Facebook este acum conectat cu inCruises."
+
+msgid "Zip Code"
+msgstr ""
+
+msgid "search"
+msgstr ""

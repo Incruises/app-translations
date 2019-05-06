@@ -1,0 +1,596 @@
+# Translators:
+# Khrystyna Mishchenko <k-mischenko@ukr.net>, 2019
+# Liudmyla Tsudzevych <mila.marketing@incruises.com>, 2019
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Liudmyla Tsudzevych <mila.marketing@incruises.com>, 2019\n"
+"Language-Team: Ukrainian (https://www.transifex.com/incruises/teams/55376/uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+msgid "$100.00 per month"
+msgstr "100,00$ на місяць"
+
+msgid "$195.00 Activation fee and $95.00 per year"
+msgstr " 195.00$ плата за Активацію та 95.00$ на рік"
+
+msgid "Account Name"
+msgstr "Назва Облікового Запису "
+
+msgid "Account Setup"
+msgstr "Установка Облікового Запису"
+
+msgid "Account settings"
+msgstr "Налаштування Облікового Запису"
+
+msgid "Activate now"
+msgstr "Активуйте зараз"
+
+msgid "Add Contact"
+msgstr "Додати Контакт"
+
+msgid "Address"
+msgstr "Адреса"
+
+msgid "Agreements and Important Forms"
+msgstr "Угоди та Важливі Документи"
+
+msgid "All"
+msgstr "Всі"
+
+msgid "Alternate Email"
+msgstr "Альтернативна Електронна Пошта"
+
+msgid "Alternate Phone"
+msgstr "Альтернативний Телефон"
+
+msgid ""
+"As a Partner you get the opportunity to earn compensation from spreading the word about inCruises®!\n"
+"                        You will also get access to world class marketing tools, live and recorded training, mobile applications, downloadable business cards, and much more."
+msgstr ""
+"В якості Партнера ви отримуєте можливість отримати винагороду за те, що  поширюєте інформацію про inCruises®!\n"
+"                        Ви також отримаєте доступ до маркетингових інструментів світового рівня, навчання, яке транслюється у прямому ефірі та уже записаних тренінгів, мобільних додатків, візиток, які можна завантажити та багато іншого."
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Be patient please..."
+msgstr "Зачекайте, будь ласка ..."
+
+msgid ""
+"Become a Cruising Member and enjoy the benefits of our exclusive membership with access to our select Incentive Dream Cruises and Global Destination Offers.\n"
+"                        $100.00 per month. No contracts. You can cancel anytime. 14-day money back guarantee on all purchases.\n"
+"\t\t\t\t\t\tYou earn $200 Cruise Dollars™ for every $100.00 in membership payments."
+msgstr ""
+"Станьте Членом нашого клубу  і насолоджуйтеся перевагами нашого ексклюзивного членства з доступом до наших вибраних Стимул Круїзів та Пропозиції Глобальних Круїзів.\n"
+" 100$ на місяць. Ніяких контрактів. Можливе скасування в любий час. 14-денна гарантія повернення коштів.\n"
+"\t\t\t\t\t\tВи заробляєте 200 Круїзних Доларів за кожні 100$ оплати членства."
+
+msgid "Brochures, Presentations and Flyers"
+msgstr "Буклети, Презентації та Флаєра "
+
+msgid "Calendar"
+msgstr "Календар"
+
+msgid "Cancel"
+msgstr "Відмінити"
+
+msgid "Check"
+msgstr "Перевірити"
+
+msgid ""
+"Check out our upcoming events including webinars, meetings, and regional "
+"conventions."
+msgstr ""
+"Перевірте наші майбутні події, включаючи вебінари, зустрічі та регіональні "
+"конвенції."
+
+msgid "City"
+msgstr "Місто"
+
+msgid "Clear"
+msgstr "Очистити"
+
+msgid "Click here"
+msgstr "Натисніть тут"
+
+msgid "Completed"
+msgstr "Завершено"
+
+msgid "Completed Contacts"
+msgstr "Заповнені Контакти"
+
+msgid "Confirm"
+msgstr "Підтвердити "
+
+msgid "Confirm mail"
+msgstr "Підтвердити пошту"
+
+msgid "Confirm password"
+msgstr "Підтвердити пароль"
+
+msgid "Congratulations, now you just have to do login"
+msgstr "Вітаємо, тепер потрібно просто увійти "
+
+msgid "Contacts"
+msgstr "Контакти"
+
+msgid "Country"
+msgstr "Країна"
+
+msgid "Courses"
+msgstr "Курси"
+
+msgid "Cruise Dollars"
+msgstr "Круїзні Долари "
+
+msgid "Cruising Member"
+msgstr "Член Круїзного Клубу"
+
+msgid "Current Plan"
+msgstr "Поточний План"
+
+msgid "DashBoard"
+msgstr "Панель Управління"
+
+msgid "Decide what email notifications you want to receive and what not."
+msgstr "Вирішіть, які електронні повідомлення ви хочете отримувати, а які ні."
+
+msgid "Deselect all"
+msgstr "Зняти всі виділення"
+
+msgid "Documents"
+msgstr "Документи"
+
+msgid "Email"
+msgstr "Еmail"
+
+msgid "English"
+msgstr "Англійська "
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Facebook Login"
+msgstr "Увійти у Facebook "
+
+msgid "Female"
+msgstr "Жіноча"
+
+msgid "First Name"
+msgstr "Ім'я"
+
+msgid "Follow these simple steps to set up your inCruises account."
+msgstr ""
+"Виконайте ці прості кроки, щоб налаштувати свій обліковий запис inCruises."
+
+msgid "Gender"
+msgstr "Стать"
+
+msgid "German"
+msgstr "Німецька"
+
+msgid "Import"
+msgstr "Імпортувати"
+
+msgid "Import Contacts"
+msgstr "Імпортувати Контакти "
+
+msgid "Import to both"
+msgstr "Імпортувати до обох"
+
+msgid "Import to device"
+msgstr "Імпортувати в пристрій"
+
+msgid "Import to incruises"
+msgstr "Імпортувати в incruises"
+
+msgid "Import your mobile contacts to incruises."
+msgstr "Імпортувати ваші мобільні контакти в InCruises."
+
+msgid "Incruises Contacts"
+msgstr "Контакти Incruises"
+
+msgid "Incruises login app"
+msgstr "Ввійти в додаток Incruises "
+
+msgid "Information Center"
+msgstr "Інформаційний Центр"
+
+msgid "Invitation has been sent!"
+msgstr "Запрошення відправлено!"
+
+msgid "Invite"
+msgstr "Запросити"
+
+msgid "Invite contact"
+msgstr "Запросити контакт"
+
+msgid "Inviter"
+msgstr "Запрошувач"
+
+msgid "Italian"
+msgstr "Італійська"
+
+msgid "Korean"
+msgstr "Корейська"
+
+msgid "Language"
+msgstr "Мова"
+
+msgid "Last Name"
+msgstr "Прізвище"
+
+msgid ""
+"Learn the fundamentals of our business opportunity and Membership offer."
+msgstr ""
+"Ознайомтеся з основами наших бізнес можливостей та пропозиції щодо Членства."
+
+msgid "Left Swipe"
+msgstr "Проведіть Ліворуч"
+
+msgid "Legal"
+msgstr "Легальний"
+
+msgid "Link Facebook Account"
+msgstr "Посилання на Обліковий Запис Facebook"
+
+msgid "Loading, please wait..."
+msgstr "Завантажується, будь ласка, зачекайте ..."
+
+msgid "Login"
+msgstr "Логін"
+
+msgid "Male"
+msgstr "Чоловік"
+
+msgid "Manage your subscriptions of your Partner and/or Member."
+msgstr "Керуйте підписками вашого Партнера та/або Члена."
+
+msgid "Marital Status"
+msgstr "Сімейний стан"
+
+msgid "Marketing"
+msgstr "Маркетинг"
+
+msgid "Married"
+msgstr "У Шлюбі"
+
+msgid "Media"
+msgstr "Медіа"
+
+msgid "Membership Info"
+msgstr "Інформація про Членство"
+
+msgid "Membership Options"
+msgstr "Опції Членства"
+
+msgid "My Contacts"
+msgstr "Мої Контакти"
+
+msgid "My Name Format"
+msgstr "Формат Мого Імені"
+
+msgid "My Reach"
+msgstr "Мої досягнення"
+
+msgid "Name"
+msgstr "Ім'я"
+
+msgid "Nickname"
+msgstr "Нікнейм"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "Non member"
+msgstr "Не член"
+
+msgid "Not Read"
+msgstr "Не Читається"
+
+msgid ""
+"Not a member, to use all the features of this application you must be a member.\n"
+"\t\t\t\t\t\tUpgrade today, click below and we will redirect you to incruises so you can make the payments."
+msgstr ""
+"Ви не є членом, щоб використовувати всі можливості цієї програми, ви повинні"
+" бути членом.\t\t\t\t\t\tОновіть сьогодні, натисніть нижче, і ми "
+"переадресуємо вас на incruises, щоб ви могли здійснити оплату."
+
+msgid "Notification"
+msgstr "Оповіщення"
+
+msgid "Notification Center"
+msgstr "Центр Повідомлень"
+
+msgid "Notifications"
+msgstr "Оповіщення"
+
+msgid "O'zbek"
+msgstr "Узбецький"
+
+msgid "Ok"
+msgstr "Oк"
+
+msgid "Overview"
+msgstr "Переглянути"
+
+msgid "Partner"
+msgstr "Партнер"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Password Confirmation"
+msgstr "Підтвердження Паролю"
+
+msgid "Password must be at least 8 characters long."
+msgstr "Пароль повинен містити принаймні 8 символів."
+
+msgid "Passwords do not match"
+msgstr "Паролі не співпадають"
+
+msgid "Payments"
+msgstr "Платежі"
+
+msgid "Pending"
+msgstr "Очікує"
+
+msgid "Pending Contacts"
+msgstr "Контакти в очікуванні"
+
+msgid "Personal"
+msgstr "Особистий"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Please confirm password"
+msgstr "Будь ласка, підтвердіть пароль"
+
+msgid "Please confirm your email"
+msgstr "Будь ласка, підтвердь ваш email"
+
+msgid "Please insert a valid email"
+msgstr "Будь ласка, введіть дійсний email"
+
+msgid "Please insert password"
+msgstr "Будь ласка, введіть пароль"
+
+msgid "Please insert the email."
+msgstr "Будь ласка, введіть email."
+
+msgid "Please introduce your email"
+msgstr "Будь ласка, введіть свою електронну пошту"
+
+msgid "Please introduce your first name"
+msgstr "Будь ласка, вкажіть введіть ваше ім'я"
+
+msgid "Please introduce your last name"
+msgstr "Будь ласка, вкажіть ваше прізвище"
+
+msgid "Please introduce your password"
+msgstr "Буль ласка, введіть свій пароль"
+
+msgid "Please introduce your phone"
+msgstr "Будь ласка,введіть свій телефон"
+
+msgid "Please wait..."
+msgstr "Будь ласка, зачекайте"
+
+msgid "Please you must insert a name type"
+msgstr "Будь ласка, введіть тип імені"
+
+msgid "Please you must insert email"
+msgstr "Введіть email, будь ласка"
+
+msgid "Please you must insert language"
+msgstr "Будь ласка, оберіть мову"
+
+msgid ""
+"Please you need linked your incruises account before using facebook login."
+msgstr ""
+"Будь ласка, вам потрібно пов'язати ваш incruises аккаут перед тим, як увійти"
+" у facebook."
+
+msgid "Professional"
+msgstr "Професійний"
+
+msgid "Profile"
+msgstr "Профіль"
+
+msgid "Profile Settings"
+msgstr "Налаштування Профілю "
+
+msgid "Read"
+msgstr "Прочитайте"
+
+msgid ""
+"Ready to learn what you need to know to succeed BIG with inCruises™? Check "
+"out our library of videos with supporting documents."
+msgstr ""
+"Готові дізнатися, що необхідно  для досягнення ВЕЛИКОГО успіху в inCruises™?"
+" Перегляньте нашу відеотеку з супровідними документами."
+
+msgid "Referal Link"
+msgstr "Реферальне Посилання"
+
+msgid "Register"
+msgstr "Реєстрація"
+
+msgid "Remove"
+msgstr "Видалити"
+
+msgid "Remove all"
+msgstr "Видалити все"
+
+msgid "Remove read"
+msgstr "Видалити прочитані"
+
+msgid "Remove unread"
+msgstr "Видалити непрочитані"
+
+msgid "Resources"
+msgstr "Ресурси"
+
+msgid "Russian"
+msgstr "Російська "
+
+msgid "Save"
+msgstr "Зберегти "
+
+msgid "Saving data..."
+msgstr "Збереження даних ..."
+
+msgid ""
+"Search our library of Documents. There's marketing materials, compliance "
+"information and lots of helpful tips to help you build your business."
+msgstr ""
+"Завітайте в нашу бібліотеку Документів. Там ви знайдете маркетингові "
+"матеріали, юридичну інформацію  і багато корисних порад, які допоможуть вам "
+"побудувати свій бізнес."
+
+msgid "See and manage your incruises contacts"
+msgstr "Переглядайте та керуйте своїми контактами в incruises"
+
+msgid "See and manage your profile"
+msgstr "Перегляньте та керуйте своїм профілем"
+
+msgid ""
+"See how far your Marketing REACH has spread all over the world and send new "
+"invitations."
+msgstr ""
+"Дізнайтеся, як далеко ваші Маркетингові ДОСЯГНЕННЯ поширилися,розповсюдились"
+" по всьому світу і надсилайте нові запрошення."
+
+msgid "See the balance, credits and debits."
+msgstr "Переглянути баланс, кредит та дебет."
+
+msgid ""
+"See who has produced the most invitations, registrations, and upgraded "
+"partners in your team."
+msgstr ""
+"Дізнайтеся, хто створив,відправив,розробив,підготував найбільшу кількість "
+"запрошень, реєстрацій та оновлених партнерів у вашій команді."
+
+msgid "Select all"
+msgstr "Вибрати все"
+
+msgid "Select contacts"
+msgstr "Виберіть контакти"
+
+msgid "Settings"
+msgstr "Налаштування"
+
+msgid "Single"
+msgstr "Одинокий"
+
+msgid "Something was wrong, please try later, thanks."
+msgstr "Щось трапилось не так, будь ласка, спробуйте пізніше, дякуємо"
+
+msgid "Spanish"
+msgstr "Іспанська"
+
+msgid "Sponsor Name"
+msgstr "Ім'я Спонсора"
+
+msgid "State"
+msgstr "Штат"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Subscriptions"
+msgstr "Підписки"
+
+msgid ""
+"Take a quick glance at everything important related to your inCruises™ "
+"business."
+msgstr ""
+"Окиньте швидким поглядом все важливе, що стосується вашого бізнесу "
+"inCruises™."
+
+msgid "Team Rankings"
+msgstr "Рейтинг Команди"
+
+msgid "The document could not be open"
+msgstr "Документ не відкривається"
+
+msgid "Titles"
+msgstr "Звання"
+
+msgid "Track result"
+msgstr "Відстежувати Результати "
+
+msgid "Training"
+msgstr "Тренінг"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Unique member code"
+msgstr "Унікальний код члена"
+
+msgid "Unread"
+msgstr "Непрочитані"
+
+msgid "Update profile"
+msgstr "Оновити профіль"
+
+msgid ""
+"Use your Referral Link to grow your marketing REACH via email, text messages"
+" and even social media."
+msgstr ""
+"Надсилайте Ваше Реферальне Посилання електронною поштою, у текстових "
+"повідомленнях і постіть у соціальних мережах  для зростання ваших "
+"маркетингових ДОСЯГНЕННЬ."
+
+msgid "Video, Images, and Other Links"
+msgstr "Відео, Зображення та Інші Посилання"
+
+msgid "View"
+msgstr "Переглянути"
+
+msgid "View our 7 Rank Achievement Titles"
+msgstr "Перегляньте назви наших 7 Рангів"
+
+msgid "We are configuring your data"
+msgstr "Ми налаштовуємо ваші дані"
+
+msgid "Welcome"
+msgstr "Ласкаво Просимо"
+
+msgid "Widowed"
+msgstr "Вдова/вдівець"
+
+msgid ""
+"Without this permission you will not be able to take advantage of the "
+"potential of the app,  Are you sure you want to deny?"
+msgstr ""
+"Без цього дозволу ви не зможете скористатися потенціалом додатку. Ви "
+"впевнені, що хочете відхилити?"
+
+msgid "Would you like to send an invitation to inCruises to this contact?"
+msgstr "Бажаєте надіслати запрошення до InCruises даному контакту?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "You have a new notification"
+msgstr "Ви отримали нове оповіщення"
+
+msgid "You have canceled the invitation."
+msgstr "Ви скасували запрошення."
+
+msgid "Your facebook account has been linked with incruises."
+msgstr "Ваш обліковий запис facebook пов'язаний з incruises."
+
+msgid "Zip Code"
+msgstr "Поштовий Індекс"
+
+msgid "search"
+msgstr "пошук"

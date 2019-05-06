@@ -1,0 +1,574 @@
+# Translators:
+# Hanae <honeymaria.lovegospel@gmail.com>, 2019
+# Sara Japan <yuisawada@gmail.com>, 2019
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Sara Japan <yuisawada@gmail.com>, 2019\n"
+"Language-Team: Japanese (https://www.transifex.com/incruises/teams/55376/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "$100.00 per month"
+msgstr "月額100ドル"
+
+msgid "$195.00 Activation fee and $95.00 per year"
+msgstr "195ドルのアクティベーション料と年間95ドル"
+
+msgid "Account Name"
+msgstr "アカウント名"
+
+msgid "Account Setup"
+msgstr "アカウント設定"
+
+msgid "Account settings"
+msgstr "アカウントの設定"
+
+msgid "Activate now"
+msgstr "今すぐアクティベート（有効化）"
+
+msgid "Add Contact"
+msgstr "連絡先へ追加"
+
+msgid "Address"
+msgstr "住所"
+
+msgid "Agreements and Important Forms"
+msgstr "規約 および 重要な雛形"
+
+msgid "All"
+msgstr "すべて"
+
+msgid "Alternate Email"
+msgstr "別のメールアドレス"
+
+msgid "Alternate Phone"
+msgstr "別の電話"
+
+msgid ""
+"As a Partner you get the opportunity to earn compensation from spreading the word about inCruises®!\n"
+"                        You will also get access to world class marketing tools, live and recorded training, mobile applications, downloadable business cards, and much more."
+msgstr ""
+"パートナーとして、あなたはインクルーズについての情報を広めることで報酬を得る機会を得ます！\n"
+"                         また、ワールドクラスのマーケティングツール、ライブおよび記録されたトレーニング、モバイルアプリケーション、ダウンロード可能な名刺などへのアクセスも可能になります。"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "Be patient please..."
+msgstr "少々お待ちください..."
+
+msgid ""
+"Become a Cruising Member and enjoy the benefits of our exclusive membership with access to our select Incentive Dream Cruises and Global Destination Offers.\n"
+"                        $100.00 per month. No contracts. You can cancel anytime. 14-day money back guarantee on all purchases.\n"
+"\t\t\t\t\t\tYou earn $200 Cruise Dollars™ for every $100.00 in membership payments."
+msgstr ""
+"クルーズ会員になり厳選されたインセンティブドリームクルーズとグローバルデスティネーションオファーへのアクセス権を持つ私たちの会員限定の特典を受ける。\n"
+"                        月額100ドル。 契約はありません。 いつでもキャンセルできます。 すべての購入品に対して14日間の返金保証。\n"
+"\t\t\t\t\t\tあなたは、会員支払いの100.00ドルごとに200ドルのCruise Dollars™を獲得できます。"
+
+msgid "Brochures, Presentations and Flyers"
+msgstr "パンフレット、プレゼンテーション資料、チラシ"
+
+msgid "Calendar"
+msgstr "カレンダー"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Check"
+msgstr "チェック"
+
+msgid ""
+"Check out our upcoming events including webinars, meetings, and regional "
+"conventions."
+msgstr "ウェビナー、会議、地域のコンベンションなど、今後開催されるイベントをチェックしてください。"
+
+msgid "City"
+msgstr "都市"
+
+msgid "Clear"
+msgstr "クリア"
+
+msgid "Click here"
+msgstr "こちらをクリックしてください"
+
+msgid "Completed"
+msgstr "完了"
+
+msgid "Completed Contacts"
+msgstr "完了した連絡先"
+
+msgid "Confirm"
+msgstr "確認"
+
+msgid "Confirm mail"
+msgstr "アドレスの確認"
+
+msgid "Confirm password"
+msgstr "パスワードの確認"
+
+msgid "Congratulations, now you just have to do login"
+msgstr "おめでとうございます、あとはログインするだけです"
+
+msgid "Contacts"
+msgstr "連絡先"
+
+msgid "Country"
+msgstr "国"
+
+msgid "Courses"
+msgstr "講座"
+
+msgid "Cruise Dollars"
+msgstr "クルーズドル"
+
+msgid "Cruising Member"
+msgstr "クルーズメンバー"
+
+msgid "Current Plan"
+msgstr "現在の会員種別"
+
+msgid "DashBoard"
+msgstr "ダッシュボード"
+
+msgid "Decide what email notifications you want to receive and what not."
+msgstr "どのEメール通知を受け取りたいか、受け取らないかを決めます。"
+
+msgid "Deselect all"
+msgstr "すべての選択を解除"
+
+msgid "Documents"
+msgstr "文書"
+
+msgid "Email"
+msgstr "Eメール"
+
+msgid "English"
+msgstr "英語"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Facebook Login"
+msgstr "Facebookログイン"
+
+msgid "Female"
+msgstr "女性"
+
+msgid "First Name"
+msgstr "名"
+
+msgid "Follow these simple steps to set up your inCruises account."
+msgstr "あなたのインクルーズアカウントを設定するためにこれらの簡単なステップに従ってください。"
+
+msgid "Gender"
+msgstr "性別"
+
+msgid "German"
+msgstr "ドイツ語"
+
+msgid "Import"
+msgstr "読込"
+
+msgid "Import Contacts"
+msgstr "連絡先の読込"
+
+msgid "Import to both"
+msgstr "両方を読み込む"
+
+msgid "Import to device"
+msgstr "端末に読み込む"
+
+msgid "Import to incruises"
+msgstr "インクルーズに読み込む"
+
+msgid "Import your mobile contacts to incruises."
+msgstr "携帯電話の連絡先をインクルーズに読み込む"
+
+msgid "Incruises Contacts"
+msgstr "インクルーズ連絡先"
+
+msgid "Incruises login app"
+msgstr "インクルーズログインアプリ"
+
+msgid "Information Center"
+msgstr "情報センター"
+
+msgid "Invitation has been sent!"
+msgstr "招待状が送信されました。"
+
+msgid "Invite"
+msgstr "招待"
+
+msgid "Invite contact"
+msgstr "連絡先を招待"
+
+msgid "Inviter"
+msgstr "招待主"
+
+msgid "Italian"
+msgstr "イタリア語"
+
+msgid "Korean"
+msgstr "韓国語"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Last Name"
+msgstr "姓"
+
+msgid ""
+"Learn the fundamentals of our business opportunity and Membership offer."
+msgstr "私たちのビジネスチャンスと会員増強の基本について学びましょう。"
+
+msgid "Left Swipe"
+msgstr "左にスワイプ"
+
+msgid "Legal"
+msgstr "法律に関する資料"
+
+msgid "Link Facebook Account"
+msgstr "Facebookアカウントをリンクする"
+
+msgid "Loading, please wait..."
+msgstr "読み込み中のため、少々お待ちください..."
+
+msgid "Login"
+msgstr "ログイン"
+
+msgid "Male"
+msgstr "男性"
+
+msgid "Manage your subscriptions of your Partner and/or Member."
+msgstr "あなたのパートナーやメンバーのあなたの加入状況を管理します。"
+
+msgid "Marital Status"
+msgstr "配偶者の有無"
+
+msgid "Marketing"
+msgstr "マーケティング資料"
+
+msgid "Married"
+msgstr "既婚"
+
+msgid "Media"
+msgstr "メディア"
+
+msgid "Membership Info"
+msgstr "会員情報"
+
+msgid "Membership Options"
+msgstr "会員オプション"
+
+msgid "My Contacts"
+msgstr "私の連絡先"
+
+msgid "My Name Format"
+msgstr "自分の名前のフォーマット"
+
+msgid "My Reach"
+msgstr "自分の到達範囲"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Nickname"
+msgstr "ニックネーム"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "Non member"
+msgstr "非会員"
+
+msgid "Not Read"
+msgstr "未読"
+
+msgid ""
+"Not a member, to use all the features of this application you must be a member.\n"
+"\t\t\t\t\t\tUpgrade today, click below and we will redirect you to incruises so you can make the payments."
+msgstr ""
+"メンバーではない、このアプリケーションのすべての機能を使用するには、メンバーになる必要があります。\n"
+"\t\t\t\t\t\t今日アップグレードするためには下をクリックしてください、自動的に支払い用のページに転送します。"
+
+msgid "Notification"
+msgstr "通知"
+
+msgid "Notification Center"
+msgstr "通知センター"
+
+msgid "Notifications"
+msgstr "通知"
+
+msgid "O'zbek"
+msgstr "トルコ語"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Overview"
+msgstr "概要"
+
+msgid "Partner"
+msgstr "パートナー"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Password Confirmation"
+msgstr "パスワードの確認"
+
+msgid "Password must be at least 8 characters long."
+msgstr "パスワードは8文字以上にする必要があります。"
+
+msgid "Passwords do not match"
+msgstr "パスワードが一致しません"
+
+msgid "Payments"
+msgstr "支払い"
+
+msgid "Pending"
+msgstr "保留中"
+
+msgid "Pending Contacts"
+msgstr "保留中の連絡先"
+
+msgid "Personal"
+msgstr "個人の"
+
+msgid "Phone"
+msgstr "電話番号"
+
+msgid "Please confirm password"
+msgstr "パスワードを確認してください"
+
+msgid "Please confirm your email"
+msgstr "メールを確認して下さい"
+
+msgid "Please insert a valid email"
+msgstr "有効なメールアドレスを入力してください"
+
+msgid "Please insert password"
+msgstr "パスワードを入力してください"
+
+msgid "Please insert the email."
+msgstr "メールを挿入してください。"
+
+msgid "Please introduce your email"
+msgstr "あなたのメールアドレスを教えてください"
+
+msgid "Please introduce your first name"
+msgstr "あなたの下の名前を教えてください"
+
+msgid "Please introduce your last name"
+msgstr "あなたの苗字を教えてください"
+
+msgid "Please introduce your password"
+msgstr "パスワードを教えてください"
+
+msgid "Please introduce your phone"
+msgstr "電話番号を教えてください"
+
+msgid "Please wait..."
+msgstr "お待ちください・・・"
+
+msgid "Please you must insert a name type"
+msgstr "名前の種類を入力してください"
+
+msgid "Please you must insert email"
+msgstr "メールを挿入してください"
+
+msgid "Please you must insert language"
+msgstr "言語を入力してください"
+
+msgid ""
+"Please you need linked your incruises account before using facebook login."
+msgstr "Facebookのログインを使用する前にあなたのインクルーズアカウントをリンクする必要があります。"
+
+msgid "Professional"
+msgstr "プロフェッショナル"
+
+msgid "Profile"
+msgstr "プロフィール"
+
+msgid "Profile Settings"
+msgstr "プロフィールの設定"
+
+msgid "Read"
+msgstr "既読"
+
+msgid ""
+"Ready to learn what you need to know to succeed BIG with inCruises™? Check "
+"out our library of videos with supporting documents."
+msgstr "インクルーズで大成功するために知っておくべきことを学ぶ準備はできましたか？ 補足文書とビデオライブラリをチェックしてください。"
+
+msgid "Referal Link"
+msgstr "紹介リンク"
+
+msgid "Register"
+msgstr "登録"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Remove all"
+msgstr "すべて削除"
+
+msgid "Remove read"
+msgstr "既読を削除"
+
+msgid "Remove unread"
+msgstr "未読を削除"
+
+msgid "Resources"
+msgstr "ビジネス資源"
+
+msgid "Russian"
+msgstr "ロシア語"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Saving data..."
+msgstr "データを保存中..."
+
+msgid ""
+"Search our library of Documents. There's marketing materials, compliance "
+"information and lots of helpful tips to help you build your business."
+msgstr ""
+"資料のライブラリを検索してください。 あなたのビジネス構築を手助けするためのマーケティング資料、コンプライアンス情報と多くの役に立つヒントがあります。"
+
+msgid "See and manage your incruises contacts"
+msgstr "あなたのインクルーズ連絡先を見て管理する"
+
+msgid "See and manage your profile"
+msgstr "自分のプロフィールを見て管理する"
+
+msgid ""
+"See how far your Marketing REACH has spread all over the world and send new "
+"invitations."
+msgstr "あなたのマーケティング到達範囲が世界中にどれだけ広がっているかを見て、新しい招待状を送ってください。"
+
+msgid "See the balance, credits and debits."
+msgstr "残高、クレジット、デビットを参照"
+
+msgid ""
+"See who has produced the most invitations, registrations, and upgraded "
+"partners in your team."
+msgstr "あなたのチームで最も招待状、登録者、アップグレードされたパートナーを生み出した人物を確認してください。"
+
+msgid "Select all"
+msgstr "すべて選択"
+
+msgid "Select contacts"
+msgstr "連絡先を選択する"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Single"
+msgstr "独身"
+
+msgid "Something was wrong, please try later, thanks."
+msgstr "問題が発生しました。後でもう一度試してください。"
+
+msgid "Spanish"
+msgstr "スペイン語"
+
+msgid "Sponsor Name"
+msgstr "スポンサー名"
+
+msgid "State"
+msgstr "明細"
+
+msgid "Status"
+msgstr "明細"
+
+msgid "Subscriptions"
+msgstr "加入状況"
+
+msgid ""
+"Take a quick glance at everything important related to your inCruises™ "
+"business."
+msgstr "あなたのインクルーズビジネスに関連して重要なすべての情報を一目見てください。"
+
+msgid "Team Rankings"
+msgstr "チームランキング"
+
+msgid "The document could not be open"
+msgstr "文書を開くことができませんでした"
+
+msgid "Titles"
+msgstr "タイトル"
+
+msgid "Track result"
+msgstr "結果を追跡"
+
+msgid "Training"
+msgstr "トレーニング"
+
+msgid "Type"
+msgstr "タイプ"
+
+msgid "Unique member code"
+msgstr "固有のメンバーコード"
+
+msgid "Unread"
+msgstr "未読"
+
+msgid "Update profile"
+msgstr "プロフィール更新"
+
+msgid ""
+"Use your Referral Link to grow your marketing REACH via email, text messages"
+" and even social media."
+msgstr "紹介リンクを使って、Eメール、テキストメッセージそしてソーシャルメディアであなたのマーケティング到達範囲を成長させましょう。"
+
+msgid "Video, Images, and Other Links"
+msgstr "動画、画像、およびその他のリンク"
+
+msgid "View"
+msgstr "表示する"
+
+msgid "View our 7 Rank Achievement Titles"
+msgstr "７ランクの達成タイトルを表示します。"
+
+msgid "We are configuring your data"
+msgstr "あなたのデータを設定しています"
+
+msgid "Welcome"
+msgstr "ようこそ"
+
+msgid "Widowed"
+msgstr "未亡人"
+
+msgid ""
+"Without this permission you will not be able to take advantage of the "
+"potential of the app,  Are you sure you want to deny?"
+msgstr "この許可がないと、アプリの機能を利用することはできません。拒否してもよろしいですか？"
+
+msgid "Would you like to send an invitation to inCruises to this contact?"
+msgstr "この連絡先にインクルーズへの招待状を送りますか？"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "You have a new notification"
+msgstr "新しい通知があります"
+
+msgid "You have canceled the invitation."
+msgstr "招待をキャンセルしました。"
+
+msgid "Your facebook account has been linked with incruises."
+msgstr "あなたのFacebookアカウントは、インクルーズとリンクされています。"
+
+msgid "Zip Code"
+msgstr "郵便番号"
+
+msgid "search"
+msgstr "検索"
