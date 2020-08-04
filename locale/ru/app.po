@@ -1,15 +1,21 @@
 # Translators:
 # Irina Aronets <i.aronets@gmail.com>, 2019
-# 
+#
 msgid ""
 msgstr ""
 "Last-Translator: Irina Aronets <i.aronets@gmail.com>, 2019\n"
-"Language-Team: Russian (https://www.transifex.com/incruises/teams/55376/ru/)\n"
+"Language-Team: Russian (https://www.transifex.com/incruises/teams/55376/"
+"ru/)\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+msgid "Do you work?"
+msgstr ""
 
 msgid "$100.00 per month"
 msgstr "100$ в месяц "
@@ -17,16 +23,20 @@ msgstr "100$ в месяц "
 msgid "$195.00 Activation fee and $95.00 per year"
 msgstr " 195$  Плата за Активацию и  95$ на следующий год"
 
-msgid "Account Name"
-msgstr "Имя Пользователя"
+msgid "Account Name testing one two three ok ok ok"
+msgstr ""
 
 msgid "Account Setup"
 msgstr "Настройки Учетной Записи"
 
-msgid "Account settings"
+#, fuzzy
+#| msgid "Account settings"
+msgid "Account Settings"
 msgstr "Настройки Аккаунта"
 
-msgid "Activate now"
+#, fuzzy
+#| msgid "Activate now"
+msgid "Activate Now"
 msgstr "Активировать сейчас"
 
 msgid "Add Contact"
@@ -48,11 +58,17 @@ msgid "Alternate Phone"
 msgstr "Альтернативный Телефон"
 
 msgid ""
-"As a Partner you get the opportunity to earn compensation from spreading the word about inCruises®!\n"
-"                        You will also get access to world class marketing tools, live and recorded training, mobile applications, downloadable business cards, and much more."
+"As a Partner you get the opportunity to earn compensation from spreading the "
+"word about inCruises®!\n"
+"                        You will also get access to world class marketing "
+"tools, live and recorded training, mobile applications, downloadable "
+"business cards, and much more."
 msgstr ""
-"Как Партнер, вы получаете возможность заработать компенсацию, распространяя информацию об inCruises®!\n"
-"                        Вы также получите доступ к маркетинговым инструментам мирового класса, живых вебинаров и записи обучающих тренингов, мобильные приложения, скачиваемые визитные карточки и многое другое."
+"Как Партнер, вы получаете возможность заработать компенсацию, распространяя "
+"информацию об inCruises®!\n"
+"                        Вы также получите доступ к маркетинговым "
+"инструментам мирового класса, живых вебинаров и записи обучающих тренингов, "
+"мобильные приложения, скачиваемые визитные карточки и многое другое."
 
 msgid "Back"
 msgstr "Назад"
@@ -61,16 +77,27 @@ msgid "Be patient please..."
 msgstr "Будьте терпеливы, пожалуйста ..."
 
 msgid ""
-"Become a Cruising Member and enjoy the benefits of our exclusive membership with access to our select Incentive Dream Cruises and Global Destination Offers.\n"
-"                        $100.00 per month. No contracts. You can cancel anytime. 14-day money back guarantee on all purchases.\n"
-"\t\t\t\t\t\tYou earn $200 Cruise Dollars™ for every $100.00 in membership payments."
+"Become a Cruising Member and enjoy the benefits of our exclusive membership "
+"with access to our select Incentive Dream Cruises and Global Destination "
+"Offers.\n"
+"                        $100.00 per month. No contracts. You can cancel "
+"anytime. 14-day money back guarantee on all purchases.\n"
+"\t\t\t\t\t\tYou earn $200 Cruise Dollars™ for every $100.00 in membership "
+"payments."
 msgstr ""
-"Станьте Членом Круизного клуба и пользуйтесь преимуществами эксклюзивного членства с доступом к нашей избранной программе Стимул Круизы ™ и Предложениями Глобальных Направлений.\n"
-"                        100$ в месяц. Нет контрактов. Вы можете отменить в любое время. 14-дневная гарантия возврата денег на все покупки.\n"
-"\t\t\t\t\t\tВы получите 200 Круизных Долларов на каждые 100$ Членских взносов."
+"Станьте Членом Круизного клуба и пользуйтесь преимуществами эксклюзивного "
+"членства с доступом к нашей избранной программе Стимул Круизы ™ и "
+"Предложениями Глобальных Направлений.\n"
+"                        100$ в месяц. Нет контрактов. Вы можете отменить в "
+"любое время. 14-дневная гарантия возврата денег на все покупки.\n"
+"\t\t\t\t\t\tВы получите 200 Круизных Долларов на каждые 100$ Членских "
+"взносов."
 
 msgid "Brochures, Presentations and Flyers"
 msgstr "Брошюры, Презентации и Флайера"
+
+msgid "Calculating"
+msgstr ""
 
 msgid "Calendar"
 msgstr "Календарь"
@@ -112,7 +139,9 @@ msgstr "Подтвердить почту"
 msgid "Confirm password"
 msgstr "Подтвердите пароль"
 
-msgid "Congratulations, now you just have to do login"
+#, fuzzy
+#| msgid "Congratulations, now you just have to do login"
+msgid "Congratulations, now you have to login"
 msgstr "Поздравляем, теперь вам просто нужно войти под своим логином"
 
 msgid "Contacts"
@@ -138,8 +167,8 @@ msgstr "Панель Управления"
 
 msgid "Decide what email notifications you want to receive and what not."
 msgstr ""
-"Решите, на какой адрес электронной почты вы хотите получать уведомления и на"
-" какой из них нет."
+"Решите, на какой адрес электронной почты вы хотите получать уведомления и на "
+"какой из них нет."
 
 msgid "Deselect all"
 msgstr "Убрать выделение со всего"
@@ -186,19 +215,29 @@ msgstr "Импорт в оба"
 msgid "Import to device"
 msgstr "Импорт на устройство"
 
-msgid "Import to incruises"
+#, fuzzy
+#| msgid "Import to incruises"
+msgid "Import to inCruises"
 msgstr "Импорт в inСruises"
 
-msgid "Import your mobile contacts to incruises."
+#, fuzzy
+#| msgid "Import your mobile contacts to incruises."
+msgid "Import your mobile contacts to inCruises."
 msgstr "Импортируйте ваши мобильные контакты в incruises."
 
-msgid "Incruises Contacts"
+#, fuzzy
+#| msgid "Incruises Contacts"
+msgid "inCruises Contacts"
 msgstr "Incruises Контакты"
 
-msgid "Incruises login app"
+#, fuzzy
+#| msgid "Incruises login app"
+msgid "InCruises login app"
 msgstr "Incruises вход для приложения"
 
-msgid "Information Center"
+#, fuzzy
+#| msgid "Information Center"
+msgid "Info Center"
 msgstr "Информационный Центр "
 
 msgid "Invitation has been sent!"
@@ -287,18 +326,16 @@ msgstr "Псевдоним"
 msgid "No"
 msgstr "Нет"
 
-msgid "Non member"
-msgstr "Не член клуба"
+msgid "YOU’RE NOT A PARTNER YET"
+msgstr ""
 
 msgid "Not Read"
 msgstr "Непрочитанные"
 
 msgid ""
-"Not a member, to use all the features of this application you must be a member.\n"
-"\t\t\t\t\t\tUpgrade today, click below and we will redirect you to incruises so you can make the payments."
+"To use all the features of this app, you must first upgrade as a Partner or "
+"Partner Member. Click Active Now button to upgrade today!."
 msgstr ""
-"Не участник клуба, чтобы использовать все функции этого приложения, вы должны быть участником клуба.\n"
-"\t\t\t\t\t\tОбновите сегодня, нажав ниже, и мы перенаправим вас на incruises, чтобы вы могли совершить оплату участия."
 
 msgid "Notification"
 msgstr "Уведомления"
@@ -390,11 +427,19 @@ msgstr "Пожалуйста, вы должны ввести емейл"
 msgid "Please you must insert language"
 msgstr "Пожалуйста, вы должны выбрать язык"
 
+#, fuzzy
+#| msgid ""
+#| "Please you need linked your incruises account before using facebook login."
 msgid ""
-"Please you need linked your incruises account before using facebook login."
+"Please you need linked your inCruises account before using facebook login."
 msgstr ""
 "Пожалуйста, подключите вашу учетную запись incruises с логином Facebook, "
 "прежде чем его использовать."
+
+#, fuzzy
+#| msgid "Please wait..."
+msgid "Please try again."
+msgstr "Пожалуйста, подождите..."
 
 msgid "Professional"
 msgstr "Профессиональный"
@@ -454,12 +499,6 @@ msgstr ""
 "материалы, дополнительная информация и много полезных советов, чтобы помочь "
 "вам построить свой бизнес."
 
-msgid "See and manage your incruises contacts"
-msgstr "Посмотреть и управлять вашими incruises контактами"
-
-msgid "See and manage your profile"
-msgstr "Смотрите и управляйте своим профилем"
-
 msgid ""
 "See how far your Marketing REACH has spread all over the world and send new "
 "invitations."
@@ -480,7 +519,9 @@ msgstr ""
 msgid "Select all"
 msgstr "Выбрать все"
 
-msgid "Select contacts"
+#, fuzzy
+#| msgid "Select contacts"
+msgid "Select Contacts"
 msgstr "Выберите Контакты"
 
 msgid "Settings"
@@ -515,13 +556,25 @@ msgstr "Кратко обо всем самом важном в вашем би�
 msgid "Team Rankings"
 msgstr "Командный Рейтинг"
 
+msgid ""
+"To use all the features of this app, you must first upgrade as a Partner or "
+"Partner Member. Please visit inCruises to upgrade."
+msgstr ""
+
+msgid ""
+"That Facebook account is not linked to an inCruises account. Please login "
+"with your credentials"
+msgstr ""
+
 msgid "The document could not be open"
 msgstr "Документ не может быть открыт"
 
 msgid "Titles"
 msgstr "Звания"
 
-msgid "Track result"
+#, fuzzy
+#| msgid "Track result"
+msgid "Track Results"
 msgstr "Отслеживание Результатов"
 
 msgid "Training"
@@ -540,8 +593,8 @@ msgid "Update profile"
 msgstr "Обновить профиль"
 
 msgid ""
-"Use your Referral Link to grow your marketing REACH via email, text messages"
-" and even social media."
+"Use your Referral Link to grow your marketing REACH via email, text messages "
+"and even social media."
 msgstr ""
 "Используйте вашу Реферальную Ссылку, чтобы увеличить ваши маркетинговые "
 "ДОСТИЖЕНИЯ по электронной почте, текстовым сообщениям и даже социальным "
@@ -584,7 +637,9 @@ msgstr "У вас есть новое уведомление"
 msgid "You have canceled the invitation."
 msgstr "Вы отменили приглашение."
 
-msgid "Your facebook account has been linked with incruises."
+#, fuzzy
+#| msgid "Your facebook account has been linked with incruises."
+msgid "Your facebook account has been linked with inCruises."
 msgstr "Ваш Facebook аккаунт связан с incruises."
 
 msgid "Zip Code"
@@ -592,3 +647,74 @@ msgstr "Индекс"
 
 msgid "search"
 msgstr "поиск"
+
+#, fuzzy
+#| msgid "Import"
+msgid "Support"
+msgstr "Импорт"
+
+#, fuzzy
+#| msgid "Invite"
+msgid "Send Invite"
+msgstr "Пригласить "
+
+msgid "App Version"
+msgstr ""
+
+msgid "App Version Status"
+msgstr ""
+
+#, fuzzy
+#| msgid "Notifications"
+msgid "Push Notifications"
+msgstr "Уведомления"
+
+msgid "Good"
+msgstr ""
+
+msgid "Bad"
+msgstr ""
+
+msgid ""
+"The app needs to be updated, please click here to proceed with the "
+"installation."
+msgstr ""
+
+msgid ""
+"If you are having trouble receiving notifications, please click here to "
+"restore this functionality."
+msgstr ""
+
+#, fuzzy
+#| msgid "See and manage your incruises contacts"
+msgid "See and manage your inCruises contacts."
+msgstr "Посмотреть и управлять вашими incruises контактами"
+
+#, fuzzy
+#| msgid "See and manage your profile"
+msgid "See and manage your profile."
+msgstr "Смотрите и управляйте своим профилем"
+
+msgid "Your Session has been expired."
+msgstr ""
+
+msgid ""
+"You do not have enough space on the device, please consider freeing up space."
+msgstr ""
+
+#~ msgid "Account Name"
+#~ msgstr "Имя Пользователя"
+
+#~ msgid "Non member"
+#~ msgstr "Не член клуба"
+
+#~ msgid ""
+#~ "Not a member, to use all the features of this application you must be a "
+#~ "member.\n"
+#~ "\t\t\t\t\t\tUpgrade today, click below and we will redirect you to "
+#~ "incruises so you can make the payments."
+#~ msgstr ""
+#~ "Не участник клуба, чтобы использовать все функции этого приложения, вы "
+#~ "должны быть участником клуба.\n"
+#~ "\t\t\t\t\t\tОбновите сегодня, нажав ниже, и мы перенаправим вас на "
+#~ "incruises, чтобы вы могли совершить оплату участия."

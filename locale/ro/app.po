@@ -1,15 +1,20 @@
 # Translators:
 # Emanuel Sandu Barbu <wevoln@yahoo.com>, 2018
-# 
+#
 msgid ""
 msgstr ""
 "Last-Translator: Emanuel Sandu Barbu <wevoln@yahoo.com>, 2018\n"
-"Language-Team: Romanian (https://www.transifex.com/incruises/teams/55376/ro/)\n"
+"Language-Team: Romanian (https://www.transifex.com/incruises/teams/55376/"
+"ro/)\n"
+"Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ro\n"
-"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+
+msgid "Do you work?"
+msgstr ""
 
 msgid "$100.00 per month"
 msgstr ""
@@ -17,16 +22,20 @@ msgstr ""
 msgid "$195.00 Activation fee and $95.00 per year"
 msgstr ""
 
-msgid "Account Name"
-msgstr "Numele de cont"
+msgid "Account Name testing one two three ok ok ok"
+msgstr ""
 
 msgid "Account Setup"
 msgstr "Configurarea contului"
 
-msgid "Account settings"
-msgstr ""
+#, fuzzy
+#| msgid "Account Setup"
+msgid "Account Settings"
+msgstr "Configurarea contului"
 
-msgid "Activate now"
+#, fuzzy
+#| msgid "Activate now"
+msgid "Activate Now"
 msgstr "Activaţi acum"
 
 msgid "Add Contact"
@@ -48,11 +57,17 @@ msgid "Alternate Phone"
 msgstr ""
 
 msgid ""
-"As a Partner you get the opportunity to earn compensation from spreading the word about inCruises®!\n"
-"                        You will also get access to world class marketing tools, live and recorded training, mobile applications, downloadable business cards, and much more."
+"As a Partner you get the opportunity to earn compensation from spreading the "
+"word about inCruises®!\n"
+"                        You will also get access to world class marketing "
+"tools, live and recorded training, mobile applications, downloadable "
+"business cards, and much more."
 msgstr ""
-"Ca Partener, ai ocazia de a dobândi compensaţii pentru faptul de a spune şi altora despre inCruises®!\n"
-"                        Vei căpăta de asemenea acces la unelte de marketing de nivel mondial, training live şi înregistrat, aplicaţii pentru mobil, cărţi de vizită care se pot descărca de pe site şi mult mai multe."
+"Ca Partener, ai ocazia de a dobândi compensaţii pentru faptul de a spune şi "
+"altora despre inCruises®!\n"
+"                        Vei căpăta de asemenea acces la unelte de marketing "
+"de nivel mondial, training live şi înregistrat, aplicaţii pentru mobil, "
+"cărţi de vizită care se pot descărca de pe site şi mult mai multe."
 
 msgid "Back"
 msgstr ""
@@ -61,15 +76,27 @@ msgid "Be patient please..."
 msgstr "Vă rugăm să aveţi răbdare..."
 
 msgid ""
-"Become a Cruising Member and enjoy the benefits of our exclusive membership with access to our select Incentive Dream Cruises and Global Destination Offers.\n"
-"                        $100.00 per month. No contracts. You can cancel anytime. 14-day money back guarantee on all purchases.\n"
-"\t\t\t\t\t\tYou earn $200 Cruise Dollars™ for every $100.00 in membership payments."
+"Become a Cruising Member and enjoy the benefits of our exclusive membership "
+"with access to our select Incentive Dream Cruises and Global Destination "
+"Offers.\n"
+"                        $100.00 per month. No contracts. You can cancel "
+"anytime. 14-day money back guarantee on all purchases.\n"
+"\t\t\t\t\t\tYou earn $200 Cruise Dollars™ for every $100.00 in membership "
+"payments."
 msgstr ""
-"Devino un Membru în Clubul pentru Croaziere şi bucură-te de beneficiile Clubului nostru exclusivist, cu acces la Croazierele noastre de vis stimulative selecte şi ofertele cu Destinaţii Globale.\n"
-"                        100.00$ pe lună. Fără niciun contract. Poţi anula în orice moment. Garanţia returnării banilor în termen de 14 zile pentru toate achiziţiile.\n"
-"\t\t\t\t\t\tPrimeşti 200$ Dolari de Croazieră™ pentru fiecare 100.00$ achitată ca şi taxă de membru lunară."
+"Devino un Membru în Clubul pentru Croaziere şi bucură-te de beneficiile "
+"Clubului nostru exclusivist, cu acces la Croazierele noastre de vis "
+"stimulative selecte şi ofertele cu Destinaţii Globale.\n"
+"                        100.00$ pe lună. Fără niciun contract. Poţi anula în "
+"orice moment. Garanţia returnării banilor în termen de 14 zile pentru toate "
+"achiziţiile.\n"
+"\t\t\t\t\t\tPrimeşti 200$ Dolari de Croazieră™ pentru fiecare 100.00$ "
+"achitată ca şi taxă de membru lunară."
 
 msgid "Brochures, Presentations and Flyers"
+msgstr ""
+
+msgid "Calculating"
 msgstr ""
 
 msgid "Calendar"
@@ -112,7 +139,9 @@ msgstr ""
 msgid "Confirm password"
 msgstr ""
 
-msgid "Congratulations, now you just have to do login"
+#, fuzzy
+#| msgid "Congratulations, now you just have to do login"
+msgid "Congratulations, now you have to login"
 msgstr "Felicitări, acum nu mai trebuie decât să te conectezi."
 
 msgid "Contacts"
@@ -184,19 +213,29 @@ msgstr ""
 msgid "Import to device"
 msgstr ""
 
-msgid "Import to incruises"
-msgstr ""
-
-msgid "Import your mobile contacts to incruises."
+#, fuzzy
+#| msgid "Import your mobile contacts to incruises."
+msgid "Import to inCruises"
 msgstr "Importă contactele tale de pe mobil în inCruises."
 
-msgid "Incruises Contacts"
+#, fuzzy
+#| msgid "Import your mobile contacts to incruises."
+msgid "Import your mobile contacts to inCruises."
+msgstr "Importă contactele tale de pe mobil în inCruises."
+
+#, fuzzy
+#| msgid "Incruises Contacts"
+msgid "inCruises Contacts"
 msgstr "Contacte inCruises"
 
-msgid "Incruises login app"
+#, fuzzy
+#| msgid "Incruises login app"
+msgid "InCruises login app"
 msgstr "Aplicaţia de conectare inCruises"
 
-msgid "Information Center"
+#, fuzzy
+#| msgid "Information Center"
+msgid "Info Center"
 msgstr "Centrul de informare"
 
 msgid "Invitation has been sent!"
@@ -286,18 +325,16 @@ msgstr "Nickname"
 msgid "No"
 msgstr "Nu"
 
-msgid "Non member"
-msgstr "Nu este membru"
+msgid "YOU’RE NOT A PARTNER YET"
+msgstr ""
 
 msgid "Not Read"
 msgstr ""
 
 msgid ""
-"Not a member, to use all the features of this application you must be a member.\n"
-"\t\t\t\t\t\tUpgrade today, click below and we will redirect you to incruises so you can make the payments."
+"To use all the features of this app, you must first upgrade as a Partner or "
+"Partner Member. Click Active Now button to upgrade today!."
 msgstr ""
-"Nu sunteţi Membru, iar pentru a folosi toate elementele acestei aplicaţii, trebuie să fiţi Membru.\n"
-"\t\t\t\t\t\tFaceţi upgrade astăzi, daţi click mai jos şi vă vom redirecţiona la inCruises ca să puteţi efectua plăţile."
 
 msgid "Notification"
 msgstr "Notificare"
@@ -389,11 +426,19 @@ msgstr "Trebuie să introduceţi emailul"
 msgid "Please you must insert language"
 msgstr "Trebuie să setaţi limba"
 
+#, fuzzy
+#| msgid ""
+#| "Please you need linked your incruises account before using facebook login."
 msgid ""
-"Please you need linked your incruises account before using facebook login."
+"Please you need linked your inCruises account before using facebook login."
 msgstr ""
-"Vă rugăm să vă conectaţi la contul dvs. inCruises înainte de a vă conecta la"
-" Facebook."
+"Vă rugăm să vă conectaţi la contul dvs. inCruises înainte de a vă conecta la "
+"Facebook."
+
+#, fuzzy
+#| msgid "Please wait..."
+msgid "Please try again."
+msgstr "Vă rugăm să aşteptaţi"
 
 msgid "Professional"
 msgstr "Profesional"
@@ -447,12 +492,6 @@ msgid ""
 "information and lots of helpful tips to help you build your business."
 msgstr ""
 
-msgid "See and manage your incruises contacts"
-msgstr "Vezi şi gestionează contactele tale inCruises."
-
-msgid "See and manage your profile"
-msgstr "Vezi şi gestionează profilul tău."
-
 msgid ""
 "See how far your Marketing REACH has spread all over the world and send new "
 "invitations."
@@ -473,7 +512,9 @@ msgstr ""
 msgid "Select all"
 msgstr "Selectează tot"
 
-msgid "Select contacts"
+#, fuzzy
+#| msgid "Select contacts"
+msgid "Select Contacts"
 msgstr "Selectează contacte"
 
 msgid "Settings"
@@ -510,13 +551,25 @@ msgstr ""
 msgid "Team Rankings"
 msgstr "Nivelurile atinse de echipă"
 
+msgid ""
+"To use all the features of this app, you must first upgrade as a Partner or "
+"Partner Member. Please visit inCruises to upgrade."
+msgstr ""
+
+msgid ""
+"That Facebook account is not linked to an inCruises account. Please login "
+"with your credentials"
+msgstr ""
+
 msgid "The document could not be open"
 msgstr "Documentul nu a putut fi deschis"
 
 msgid "Titles"
 msgstr "Titluri"
 
-msgid "Track result"
+#, fuzzy
+#| msgid "Track result"
+msgid "Track Results"
 msgstr "Urmăreşte rezultatul"
 
 msgid "Training"
@@ -535,8 +588,8 @@ msgid "Update profile"
 msgstr "Actualizaţi profilul"
 
 msgid ""
-"Use your Referral Link to grow your marketing REACH via email, text messages"
-" and even social media."
+"Use your Referral Link to grow your marketing REACH via email, text messages "
+"and even social media."
 msgstr ""
 
 msgid "Video, Images, and Other Links"
@@ -576,7 +629,9 @@ msgstr ""
 msgid "You have canceled the invitation."
 msgstr "Aţi anulat invitaţia."
 
-msgid "Your facebook account has been linked with incruises."
+#, fuzzy
+#| msgid "Your facebook account has been linked with incruises."
+msgid "Your facebook account has been linked with inCruises."
 msgstr "Contul tău Facebook este acum conectat cu inCruises."
 
 msgid "Zip Code"
@@ -584,3 +639,74 @@ msgstr ""
 
 msgid "search"
 msgstr ""
+
+#, fuzzy
+#| msgid "Import"
+msgid "Support"
+msgstr "Importă"
+
+#, fuzzy
+#| msgid "Inviter"
+msgid "Send Invite"
+msgstr "Trimite invitaţii"
+
+msgid "App Version"
+msgstr ""
+
+msgid "App Version Status"
+msgstr ""
+
+#, fuzzy
+#| msgid "Notifications"
+msgid "Push Notifications"
+msgstr "Notificări"
+
+msgid "Good"
+msgstr ""
+
+msgid "Bad"
+msgstr ""
+
+msgid ""
+"The app needs to be updated, please click here to proceed with the "
+"installation."
+msgstr ""
+
+msgid ""
+"If you are having trouble receiving notifications, please click here to "
+"restore this functionality."
+msgstr ""
+
+#, fuzzy
+#| msgid "See and manage your incruises contacts"
+msgid "See and manage your inCruises contacts."
+msgstr "Vezi şi gestionează contactele tale inCruises."
+
+#, fuzzy
+#| msgid "See and manage your profile"
+msgid "See and manage your profile."
+msgstr "Vezi şi gestionează profilul tău."
+
+msgid "Your Session has been expired."
+msgstr ""
+
+msgid ""
+"You do not have enough space on the device, please consider freeing up space."
+msgstr ""
+
+#~ msgid "Account Name"
+#~ msgstr "Numele de cont"
+
+#~ msgid "Non member"
+#~ msgstr "Nu este membru"
+
+#~ msgid ""
+#~ "Not a member, to use all the features of this application you must be a "
+#~ "member.\n"
+#~ "\t\t\t\t\t\tUpgrade today, click below and we will redirect you to "
+#~ "incruises so you can make the payments."
+#~ msgstr ""
+#~ "Nu sunteţi Membru, iar pentru a folosi toate elementele acestei "
+#~ "aplicaţii, trebuie să fiţi Membru.\n"
+#~ "\t\t\t\t\t\tFaceţi upgrade astăzi, daţi click mai jos şi vă vom "
+#~ "redirecţiona la inCruises ca să puteţi efectua plăţile."

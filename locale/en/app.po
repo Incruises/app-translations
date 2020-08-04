@@ -1,9 +1,12 @@
-# 
+#
 msgid ""
 msgstr ""
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "Do you work?"
+msgstr ""
 
 msgid "$100.00 per month"
 msgstr ""
@@ -11,16 +14,20 @@ msgstr ""
 msgid "$195.00 Activation fee and $95.00 per year"
 msgstr "$195.00 Activation fee and $95.00 per year"
 
-msgid "Account Name"
-msgstr "Account Name"
+msgid "Account Name testing one two three ok ok ok"
+msgstr ""
 
 msgid "Account Setup"
 msgstr "Account Setup"
 
-msgid "Account settings"
+#, fuzzy
+#| msgid "Account settings"
+msgid "Account Settings"
 msgstr "Account settings"
 
-msgid "Activate now"
+#, fuzzy
+#| msgid "Activate now"
+msgid "Activate Now"
 msgstr "Activate now"
 
 msgid "Add Contact"
@@ -42,11 +49,17 @@ msgid "Alternate Phone"
 msgstr "Alternate Phone"
 
 msgid ""
-"As a Partner you get the opportunity to earn compensation from spreading the word about inCruises®!\n"
-"                        You will also get access to world class marketing tools, live and recorded training, mobile applications, downloadable business cards, and much more."
+"As a Partner you get the opportunity to earn compensation from spreading the "
+"word about inCruises®!\n"
+"                        You will also get access to world class marketing "
+"tools, live and recorded training, mobile applications, downloadable "
+"business cards, and much more."
 msgstr ""
-"As a Partner you get the opportunity to earn compensation from spreading the word about inCruises®!\n"
-"                        You will also get access to world class marketing tools, live and recorded training, mobile applications, downloadable business cards, and much more."
+"As a Partner you get the opportunity to earn compensation from spreading the "
+"word about inCruises®!\n"
+"                        You will also get access to world class marketing "
+"tools, live and recorded training, mobile applications, downloadable "
+"business cards, and much more."
 
 msgid "Back"
 msgstr "Back"
@@ -55,16 +68,27 @@ msgid "Be patient please..."
 msgstr "Be patient please..."
 
 msgid ""
-"Become a Cruising Member and enjoy the benefits of our exclusive membership with access to our select Incentive Dream Cruises and Global Destination Offers.\n"
-"                        $100.00 per month. No contracts. You can cancel anytime. 14-day money back guarantee on all purchases.\n"
-"\t\t\t\t\t\tYou earn $200 Cruise Dollars™ for every $100.00 in membership payments."
+"Become a Cruising Member and enjoy the benefits of our exclusive membership "
+"with access to our select Incentive Dream Cruises and Global Destination "
+"Offers.\n"
+"                        $100.00 per month. No contracts. You can cancel "
+"anytime. 14-day money back guarantee on all purchases.\n"
+"\t\t\t\t\t\tYou earn $200 Cruise Dollars™ for every $100.00 in membership "
+"payments."
 msgstr ""
-"Become a Cruising Member and enjoy the benefits of our exclusive membership with access to our select Incentive Dream Cruises and Global Destination Offers.\n"
-"                        $100.00 per month. No contracts. You can cancel anytime. 14-day money back guarantee on all purchases.\n"
-"\t\t\t\t\t\tYou earn $200 Cruise Dollars™ for every $100.00 in membership payments."
+"Become a Cruising Member and enjoy the benefits of our exclusive membership "
+"with access to our select Incentive Dream Cruises and Global Destination "
+"Offers.\n"
+"                        $100.00 per month. No contracts. You can cancel "
+"anytime. 14-day money back guarantee on all purchases.\n"
+"\t\t\t\t\t\tYou earn $200 Cruise Dollars™ for every $100.00 in membership "
+"payments."
 
 msgid "Brochures, Presentations and Flyers"
 msgstr "Brochures, Presentations and Flyers"
+
+msgid "Calculating"
+msgstr ""
 
 msgid "Calendar"
 msgstr "Calendar"
@@ -106,7 +130,9 @@ msgstr "Confirm mail"
 msgid "Confirm password"
 msgstr "Confirm password"
 
-msgid "Congratulations, now you just have to do login"
+#, fuzzy
+#| msgid "Congratulations, now you just have to do login"
+msgid "Congratulations, now you have to login"
 msgstr "Congratulations, now you just have to do login"
 
 msgid "Contacts"
@@ -178,19 +204,29 @@ msgstr "Import to both"
 msgid "Import to device"
 msgstr "Import to device"
 
-msgid "Import to incruises"
+#, fuzzy
+#| msgid "Import to incruises"
+msgid "Import to inCruises"
 msgstr "Import to incruises"
 
-msgid "Import your mobile contacts to incruises."
+#, fuzzy
+#| msgid "Import your mobile contacts to incruises."
+msgid "Import your mobile contacts to inCruises."
 msgstr "Import your mobile contacts to incruises."
 
-msgid "Incruises Contacts"
+#, fuzzy
+#| msgid "Incruises Contacts"
+msgid "inCruises Contacts"
 msgstr "Incruises Contacts"
 
-msgid "Incruises login app"
+#, fuzzy
+#| msgid "Incruises login app"
+msgid "InCruises login app"
 msgstr "Incruises login app"
 
-msgid "Information Center"
+#, fuzzy
+#| msgid "Information Center"
+msgid "Info Center"
 msgstr "Information Center"
 
 msgid "Invitation has been sent!"
@@ -279,18 +315,16 @@ msgstr "Nickname"
 msgid "No"
 msgstr "No"
 
-msgid "Non member"
-msgstr "Non member"
+msgid "YOU’RE NOT A PARTNER YET"
+msgstr ""
 
 msgid "Not Read"
 msgstr "Not Read"
 
 msgid ""
-"Not a member, to use all the features of this application you must be a member.\n"
-"\t\t\t\t\t\tUpgrade today, click below and we will redirect you to incruises so you can make the payments."
+"To use all the features of this app, you must first upgrade as a Partner or "
+"Partner Member. Click Active Now button to upgrade today!."
 msgstr ""
-"Not a member, to use all the features of this application you must be a member.\n"
-"\t\t\t\t\t\tUpgrade today, click below and we will redirect you to incruises so you can make the payments."
 
 msgid "Notification"
 msgstr "Notification"
@@ -382,10 +416,18 @@ msgstr "Please you must insert email"
 msgid "Please you must insert language"
 msgstr "Please you must insert language"
 
+#, fuzzy
+#| msgid ""
+#| "Please you need linked your incruises account before using facebook login."
 msgid ""
-"Please you need linked your incruises account before using facebook login."
+"Please you need linked your inCruises account before using facebook login."
 msgstr ""
 "Please you need linked your incruises account before using facebook login."
+
+#, fuzzy
+#| msgid "Please wait..."
+msgid "Please try again."
+msgstr "Please wait..."
 
 msgid "Professional"
 msgstr "Professional"
@@ -443,12 +485,6 @@ msgstr ""
 "Search our library of Documents. There's marketing materials, compliance "
 "information and lots of helpful tips to help you build your business."
 
-msgid "See and manage your incruises contacts"
-msgstr "See and manage your incruises contacts"
-
-msgid "See and manage your profile"
-msgstr "See and manage your profile"
-
 msgid ""
 "See how far your Marketing REACH has spread all over the world and send new "
 "invitations."
@@ -469,7 +505,9 @@ msgstr ""
 msgid "Select all"
 msgstr "Select all"
 
-msgid "Select contacts"
+#, fuzzy
+#| msgid "Select contacts"
+msgid "Select Contacts"
 msgstr "Select contacts"
 
 msgid "Settings"
@@ -506,13 +544,25 @@ msgstr ""
 msgid "Team Rankings"
 msgstr "Team Rankings"
 
+msgid ""
+"To use all the features of this app, you must first upgrade as a Partner or "
+"Partner Member. Please visit inCruises to upgrade."
+msgstr ""
+
+msgid ""
+"That Facebook account is not linked to an inCruises account. Please login "
+"with your credentials"
+msgstr ""
+
 msgid "The document could not be open"
 msgstr "The document could not be open"
 
 msgid "Titles"
 msgstr "Titles"
 
-msgid "Track result"
+#, fuzzy
+#| msgid "Track result"
+msgid "Track Results"
 msgstr "Track result"
 
 msgid "Training"
@@ -531,11 +581,11 @@ msgid "Update profile"
 msgstr "Update profile"
 
 msgid ""
-"Use your Referral Link to grow your marketing REACH via email, text messages"
-" and even social media."
+"Use your Referral Link to grow your marketing REACH via email, text messages "
+"and even social media."
 msgstr ""
-"Use your Referral Link to grow your marketing REACH via email, text messages"
-" and even social media."
+"Use your Referral Link to grow your marketing REACH via email, text messages "
+"and even social media."
 
 msgid "Video, Images, and Other Links"
 msgstr "Video, Images, and Other Links"
@@ -574,7 +624,9 @@ msgstr "You have a new notification"
 msgid "You have canceled the invitation."
 msgstr "You have canceled the invitation."
 
-msgid "Your facebook account has been linked with incruises."
+#, fuzzy
+#| msgid "Your facebook account has been linked with incruises."
+msgid "Your facebook account has been linked with inCruises."
 msgstr "Your facebook account has been linked with incruises."
 
 msgid "Zip Code"
@@ -582,3 +634,74 @@ msgstr "Zip Code"
 
 msgid "search"
 msgstr "search"
+
+#, fuzzy
+#| msgid "Import"
+msgid "Support"
+msgstr "Import"
+
+#, fuzzy
+#| msgid "Invite"
+msgid "Send Invite"
+msgstr "Invite"
+
+msgid "App Version"
+msgstr ""
+
+msgid "App Version Status"
+msgstr ""
+
+#, fuzzy
+#| msgid "Notifications"
+msgid "Push Notifications"
+msgstr "Notifications"
+
+msgid "Good"
+msgstr ""
+
+msgid "Bad"
+msgstr ""
+
+msgid ""
+"The app needs to be updated, please click here to proceed with the "
+"installation."
+msgstr ""
+
+msgid ""
+"If you are having trouble receiving notifications, please click here to "
+"restore this functionality."
+msgstr ""
+
+#, fuzzy
+#| msgid "See and manage your incruises contacts"
+msgid "See and manage your inCruises contacts."
+msgstr "See and manage your incruises contacts"
+
+#, fuzzy
+#| msgid "See and manage your profile"
+msgid "See and manage your profile."
+msgstr "See and manage your profile"
+
+msgid "Your Session has been expired."
+msgstr ""
+
+msgid ""
+"You do not have enough space on the device, please consider freeing up space."
+msgstr ""
+
+#~ msgid "Account Name"
+#~ msgstr "Account Name"
+
+#~ msgid "Non member"
+#~ msgstr "Non member"
+
+#~ msgid ""
+#~ "Not a member, to use all the features of this application you must be a "
+#~ "member.\n"
+#~ "\t\t\t\t\t\tUpgrade today, click below and we will redirect you to "
+#~ "incruises so you can make the payments."
+#~ msgstr ""
+#~ "Not a member, to use all the features of this application you must be a "
+#~ "member.\n"
+#~ "\t\t\t\t\t\tUpgrade today, click below and we will redirect you to "
+#~ "incruises so you can make the payments."

@@ -1,16 +1,19 @@
 # Translators:
 # Yanyan Cui <yoencui0423@gmail.com>, 2019
 # Ijeong Kim <coswy0302@naver.com>, 2019
-# 
+#
 msgid ""
 msgstr ""
 "Last-Translator: Ijeong Kim <coswy0302@naver.com>, 2019\n"
 "Language-Team: Korean (https://www.transifex.com/incruises/teams/55376/ko/)\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Do you work?"
+msgstr ""
 
 msgid "$100.00 per month"
 msgstr "월 $ 100.00"
@@ -18,16 +21,20 @@ msgstr "월 $ 100.00"
 msgid "$195.00 Activation fee and $95.00 per year"
 msgstr "$ 195.00 활성화 비용 및 연간 $ 95.00"
 
-msgid "Account Name"
-msgstr "계정 이름"
+msgid "Account Name testing one two three ok ok ok"
+msgstr ""
 
 msgid "Account Setup"
 msgstr "계정 설정"
 
-msgid "Account settings"
+#, fuzzy
+#| msgid "Account settings"
+msgid "Account Settings"
 msgstr "계정 설정"
 
-msgid "Activate now"
+#, fuzzy
+#| msgid "Activate now"
+msgid "Activate Now"
 msgstr "지금 활성화하십시오"
 
 msgid "Add Contact"
@@ -49,11 +56,15 @@ msgid "Alternate Phone"
 msgstr "보조 전화번호"
 
 msgid ""
-"As a Partner you get the opportunity to earn compensation from spreading the word about inCruises®!\n"
-"                        You will also get access to world class marketing tools, live and recorded training, mobile applications, downloadable business cards, and much more."
+"As a Partner you get the opportunity to earn compensation from spreading the "
+"word about inCruises®!\n"
+"                        You will also get access to world class marketing "
+"tools, live and recorded training, mobile applications, downloadable "
+"business cards, and much more."
 msgstr ""
 "파트너로서 여러분은 인크루즈에 관해 알림으로써, 보상을 받을 수 있습니다. \n"
-" 여러분은 최첨단 마케팅 도구, 실시간 및 녹화된 트레이닝, 모바일 응용 프로그램, 다운로드 가능한 명함 등을 이용할 수 있습니다."
+" 여러분은 최첨단 마케팅 도구, 실시간 및 녹화된 트레이닝, 모바일 응용 프로그"
+"램, 다운로드 가능한 명함 등을 이용할 수 있습니다."
 
 msgid "Back"
 msgstr "뒤로"
@@ -62,16 +73,25 @@ msgid "Be patient please..."
 msgstr "잠시 기다려주십시오"
 
 msgid ""
-"Become a Cruising Member and enjoy the benefits of our exclusive membership with access to our select Incentive Dream Cruises and Global Destination Offers.\n"
-"                        $100.00 per month. No contracts. You can cancel anytime. 14-day money back guarantee on all purchases.\n"
-"\t\t\t\t\t\tYou earn $200 Cruise Dollars™ for every $100.00 in membership payments."
+"Become a Cruising Member and enjoy the benefits of our exclusive membership "
+"with access to our select Incentive Dream Cruises and Global Destination "
+"Offers.\n"
+"                        $100.00 per month. No contracts. You can cancel "
+"anytime. 14-day money back guarantee on all purchases.\n"
+"\t\t\t\t\t\tYou earn $200 Cruise Dollars™ for every $100.00 in membership "
+"payments."
 msgstr ""
-"크루즈 멤버가 되어 당사의 엄선된 인센티브 드림 크루즈 및 세계적인 여행지를 제안하는 특별한 멤버십 혜택을 누리십시오.\n"
-" 한 달에 $100.00 입니다. 계약은 없습니다. 언제든 취소할 수 있습니다. 14일 이내의 취소건에 대해 취소환불을 보증합니다.\n"
+"크루즈 멤버가 되어 당사의 엄선된 인센티브 드림 크루즈 및 세계적인 여행지를 제"
+"안하는 특별한 멤버십 혜택을 누리십시오.\n"
+" 한 달에 $100.00 입니다. 계약은 없습니다. 언제든 취소할 수 있습니다. 14일 이"
+"내의 취소건에 대해 취소환불을 보증합니다.\n"
 "멤버십 비용 $100마다  $200 크루즈 달러를 지불합니다."
 
 msgid "Brochures, Presentations and Flyers"
 msgstr "브로셔, 프리젠테이션 및 전단지"
+
+msgid "Calculating"
+msgstr ""
 
 msgid "Calendar"
 msgstr "일정"
@@ -111,7 +131,9 @@ msgstr "이메일 확인"
 msgid "Confirm password"
 msgstr "비밀번호 확인"
 
-msgid "Congratulations, now you just have to do login"
+#, fuzzy
+#| msgid "Congratulations, now you just have to do login"
+msgid "Congratulations, now you have to login"
 msgstr "축하합니다! 이제 로그인만 하면 됩니다"
 
 msgid "Contacts"
@@ -136,7 +158,8 @@ msgid "DashBoard"
 msgstr "대쉬보드"
 
 msgid "Decide what email notifications you want to receive and what not."
-msgstr "이메일 알림 설정에서 메일에 수신할 내용과 수신하지 않을 내용을 결정하십시오."
+msgstr ""
+"이메일 알림 설정에서 메일에 수신할 내용과 수신하지 않을 내용을 결정하십시오."
 
 msgid "Deselect all"
 msgstr "모두 선택 취소"
@@ -183,19 +206,29 @@ msgstr "둘 다 불러오기"
 msgid "Import to device"
 msgstr "기기로 불러오기"
 
-msgid "Import to incruises"
+#, fuzzy
+#| msgid "Import to incruises"
+msgid "Import to inCruises"
 msgstr "인크루즈로 불러오기"
 
-msgid "Import your mobile contacts to incruises."
+#, fuzzy
+#| msgid "Import your mobile contacts to incruises."
+msgid "Import your mobile contacts to inCruises."
 msgstr "여러분의 전화연락처를 인크루즈로 불러오십시오."
 
-msgid "Incruises Contacts"
+#, fuzzy
+#| msgid "Incruises Contacts"
+msgid "inCruises Contacts"
 msgstr "인크루즈 연락처"
 
-msgid "Incruises login app"
+#, fuzzy
+#| msgid "Incruises login app"
+msgid "InCruises login app"
 msgstr "인크루즈 로그인 앱"
 
-msgid "Information Center"
+#, fuzzy
+#| msgid "Information Center"
+msgid "Info Center"
 msgstr "비즈니스정보 센터"
 
 msgid "Invitation has been sent!"
@@ -283,18 +316,16 @@ msgstr "닉네임"
 msgid "No"
 msgstr "아니오"
 
-msgid "Non member"
-msgstr "멤버 아님"
+msgid "YOU’RE NOT A PARTNER YET"
+msgstr ""
 
 msgid "Not Read"
 msgstr "읽지 않음"
 
 msgid ""
-"Not a member, to use all the features of this application you must be a member.\n"
-"\t\t\t\t\t\tUpgrade today, click below and we will redirect you to incruises so you can make the payments."
+"To use all the features of this app, you must first upgrade as a Partner or "
+"Partner Member. Click Active Now button to upgrade today!."
 msgstr ""
-"멤버가 아닙니다. 앱의 모든 기능을 사용하려면, 멤버가 되어야 합니다.\n"
-"지금 업그레이드 하려면, 아래를 클릭하세요. 그러면 인크루즈 지불창으로 연결됩니다."
 
 msgid "Notification"
 msgstr "메일 알림 설정"
@@ -386,9 +417,17 @@ msgstr "이메일을 입력하여야 합니다"
 msgid "Please you must insert language"
 msgstr "언어를 입력하여야 합니다"
 
+#, fuzzy
+#| msgid ""
+#| "Please you need linked your incruises account before using facebook login."
 msgid ""
-"Please you need linked your incruises account before using facebook login."
+"Please you need linked your inCruises account before using facebook login."
 msgstr "페이스북에 로그인하기 전에 여러분의 인크루즈 계정과 연결되어야 합니다."
+
+#, fuzzy
+#| msgid "Please wait..."
+msgid "Please try again."
+msgstr "잠시 기다려주십시오"
 
 msgid "Professional"
 msgstr "전문가형"
@@ -406,8 +445,8 @@ msgid ""
 "Ready to learn what you need to know to succeed BIG with inCruises™? Check "
 "out our library of videos with supporting documents."
 msgstr ""
-"인크루즈에서 크게 성공하기 위해 꼭 알아야 할 것들을 배울 준비가 되셨습니까? 귀하를 도와줄 서류들과 함께 동영상 라이브러리를 "
-"확인하십시오."
+"인크루즈에서 크게 성공하기 위해 꼭 알아야 할 것들을 배울 준비가 되셨습니까? "
+"귀하를 도와줄 서류들과 함께 동영상 라이브러리를 확인하십시오."
 
 msgid "Referal Link"
 msgstr "추천 링크"
@@ -443,18 +482,15 @@ msgid ""
 "Search our library of Documents. There's marketing materials, compliance "
 "information and lots of helpful tips to help you build your business."
 msgstr ""
-"문서보기를 검색하십시오. 마케팅 자료, 규정준수 정보 및 귀하의 비즈니스를 구축하는 데 도움이 되는 많은 유용한 팁이 있습니다."
-
-msgid "See and manage your incruises contacts"
-msgstr "인크루즈 연락처를 확인하고 관리하십시오"
-
-msgid "See and manage your profile"
-msgstr "자신의 프로필을 확인하고 관리하십시오"
+"문서보기를 검색하십시오. 마케팅 자료, 규정준수 정보 및 귀하의 비즈니스를 구축"
+"하는 데 도움이 되는 많은 유용한 팁이 있습니다."
 
 msgid ""
 "See how far your Marketing REACH has spread all over the world and send new "
 "invitations."
-msgstr "전세계 어디까지 귀하의 마케팅 초대정보가 뻗어나가 있는지 확인하고, 새로운 가입안내를 보내십시오."
+msgstr ""
+"전세계 어디까지 귀하의 마케팅 초대정보가 뻗어나가 있는지 확인하고, 새로운 가"
+"입안내를 보내십시오."
 
 msgid "See the balance, credits and debits."
 msgstr "귀하의 잔액, 입금 및 인출내역을 확인하십시오."
@@ -462,12 +498,15 @@ msgstr "귀하의 잔액, 입금 및 인출내역을 확인하십시오."
 msgid ""
 "See who has produced the most invitations, registrations, and upgraded "
 "partners in your team."
-msgstr "팀내의 최다 가입안내 활동, 등록 및 파트너 업그레이드 현황을 확인하십시오."
+msgstr ""
+"팀내의 최다 가입안내 활동, 등록 및 파트너 업그레이드 현황을 확인하십시오."
 
 msgid "Select all"
 msgstr "모두 선택"
 
-msgid "Select contacts"
+#, fuzzy
+#| msgid "Select contacts"
+msgid "Select Contacts"
 msgstr "연락처를 선택하십시오"
 
 msgid "Settings"
@@ -502,13 +541,25 @@ msgstr "인크루즈 비즈니스와 관련된 모든 중요한 사항을 간단
 msgid "Team Rankings"
 msgstr "팀 순위보기"
 
+msgid ""
+"To use all the features of this app, you must first upgrade as a Partner or "
+"Partner Member. Please visit inCruises to upgrade."
+msgstr ""
+
+msgid ""
+"That Facebook account is not linked to an inCruises account. Please login "
+"with your credentials"
+msgstr ""
+
 msgid "The document could not be open"
 msgstr "해당 문서는 열리지 않습니다"
 
 msgid "Titles"
 msgstr "호칭"
 
-msgid "Track result"
+#, fuzzy
+#| msgid "Track result"
+msgid "Track Results"
 msgstr "결과보기"
 
 msgid "Training"
@@ -527,9 +578,11 @@ msgid "Update profile"
 msgstr "프로필 업데이트"
 
 msgid ""
-"Use your Referral Link to grow your marketing REACH via email, text messages"
-" and even social media."
-msgstr "추천 링크를 이용하여 메일, 문자 메시지 및 소셜 미디어를 통해 마케팅 초대정보를 확산하십시오."
+"Use your Referral Link to grow your marketing REACH via email, text messages "
+"and even social media."
+msgstr ""
+"추천 링크를 이용하여 메일, 문자 메시지 및 소셜 미디어를 통해 마케팅 초대정보"
+"를 확산하십시오."
 
 msgid "Video, Images, and Other Links"
 msgstr "동영상, 이미지 및 기타 링크"
@@ -552,7 +605,8 @@ msgstr "사별"
 msgid ""
 "Without this permission you will not be able to take advantage of the "
 "potential of the app,  Are you sure you want to deny?"
-msgstr "이를 허용하지 않으면, 이 앱을 사용할 수 없습니다. 정말 거절하시겠습니까?"
+msgstr ""
+"이를 허용하지 않으면, 이 앱을 사용할 수 없습니다. 정말 거절하시겠습니까?"
 
 msgid "Would you like to send an invitation to inCruises to this contact?"
 msgstr "이 연락처에 인크루즈 초대장을 보내시겠습니까?"
@@ -566,7 +620,9 @@ msgstr "새로운 알림이 있습니다."
 msgid "You have canceled the invitation."
 msgstr "초대를 취소하였습니다"
 
-msgid "Your facebook account has been linked with incruises."
+#, fuzzy
+#| msgid "Your facebook account has been linked with incruises."
+msgid "Your facebook account has been linked with inCruises."
 msgstr "여러분의 페이스북 계정이 인크루즈와 연결되었습니다."
 
 msgid "Zip Code"
@@ -574,3 +630,73 @@ msgstr "우편 번호"
 
 msgid "search"
 msgstr "검색 "
+
+#, fuzzy
+#| msgid "Import"
+msgid "Support"
+msgstr "불러오기"
+
+#, fuzzy
+#| msgid "Invite"
+msgid "Send Invite"
+msgstr "초대 "
+
+msgid "App Version"
+msgstr ""
+
+msgid "App Version Status"
+msgstr ""
+
+#, fuzzy
+#| msgid "Notifications"
+msgid "Push Notifications"
+msgstr "메일 알림 설정"
+
+msgid "Good"
+msgstr ""
+
+msgid "Bad"
+msgstr ""
+
+msgid ""
+"The app needs to be updated, please click here to proceed with the "
+"installation."
+msgstr ""
+
+msgid ""
+"If you are having trouble receiving notifications, please click here to "
+"restore this functionality."
+msgstr ""
+
+#, fuzzy
+#| msgid "See and manage your incruises contacts"
+msgid "See and manage your inCruises contacts."
+msgstr "인크루즈 연락처를 확인하고 관리하십시오"
+
+#, fuzzy
+#| msgid "See and manage your profile"
+msgid "See and manage your profile."
+msgstr "자신의 프로필을 확인하고 관리하십시오"
+
+msgid "Your Session has been expired."
+msgstr ""
+
+msgid ""
+"You do not have enough space on the device, please consider freeing up space."
+msgstr ""
+
+#~ msgid "Account Name"
+#~ msgstr "계정 이름"
+
+#~ msgid "Non member"
+#~ msgstr "멤버 아님"
+
+#~ msgid ""
+#~ "Not a member, to use all the features of this application you must be a "
+#~ "member.\n"
+#~ "\t\t\t\t\t\tUpgrade today, click below and we will redirect you to "
+#~ "incruises so you can make the payments."
+#~ msgstr ""
+#~ "멤버가 아닙니다. 앱의 모든 기능을 사용하려면, 멤버가 되어야 합니다.\n"
+#~ "지금 업그레이드 하려면, 아래를 클릭하세요. 그러면 인크루즈 지불창으로 연결"
+#~ "됩니다."
