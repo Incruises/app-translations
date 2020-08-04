@@ -12,17 +12,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-msgid "Do you work?"
-msgstr ""
-
 msgid "$100.00 per month"
 msgstr "월 $ 100.00"
 
 msgid "$195.00 Activation fee and $95.00 per year"
 msgstr "$ 195.00 활성화 비용 및 연간 $ 95.00"
 
-msgid "Account Name testing one two three ok ok ok"
-msgstr ""
+msgid "Account Name"
+msgstr "계정 이름"
 
 msgid "Account Setup"
 msgstr "계정 설정"
@@ -684,9 +681,6 @@ msgstr ""
 msgid ""
 "You do not have enough space on the device, please consider freeing up space."
 msgstr ""
-
-#~ msgid "Account Name"
-#~ msgstr "계정 이름"
 
 #~ msgid "Non member"
 #~ msgstr "멤버 아님"

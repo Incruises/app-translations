@@ -11,17 +11,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Do you work?"
-msgstr ""
-
 msgid "$100.00 per month"
 msgstr "$100.00 im Monat"
 
 msgid "$195.00 Activation fee and $95.00 per year"
 msgstr "$195.00 Aktivierungsgebühr und $95.00 pro Jahr"
 
-msgid "Account Name testing one two three ok ok ok"
-msgstr ""
+msgid "Account Name"
+msgstr "Account Name"
 
 msgid "Account Setup"
 msgstr "Kontoeinstellungen"
@@ -701,9 +698,6 @@ msgstr ""
 msgid ""
 "You do not have enough space on the device, please consider freeing up space."
 msgstr ""
-
-#~ msgid "Account Name"
-#~ msgstr "Account Name"
 
 #~ msgid "Non member"
 #~ msgstr "Kein Mitglied"

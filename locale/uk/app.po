@@ -16,17 +16,14 @@ msgstr ""
 "100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || "
 "(n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
 
-msgid "Do you work?"
-msgstr ""
-
 msgid "$100.00 per month"
 msgstr "100,00$ на місяць"
 
 msgid "$195.00 Activation fee and $95.00 per year"
 msgstr " 195.00$ плата за Активацію та 95.00$ на рік"
 
-msgid "Account Name testing one two three ok ok ok"
-msgstr ""
+msgid "Account Name"
+msgstr "Назва Облікового Запису "
 
 msgid "Account Setup"
 msgstr "Установка Облікового Запису"
@@ -703,9 +700,6 @@ msgstr ""
 msgid ""
 "You do not have enough space on the device, please consider freeing up space."
 msgstr ""
-
-#~ msgid "Account Name"
-#~ msgstr "Назва Облікового Запису "
 
 #~ msgid "Non member"
 #~ msgstr "Не член"

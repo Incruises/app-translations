@@ -14,17 +14,14 @@ msgstr ""
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
 "%100>=11 && n%100<=14)? 2 : 3);\n"
 
-msgid "Do you work?"
-msgstr ""
-
 msgid "$100.00 per month"
 msgstr "100$ в месяц "
 
 msgid "$195.00 Activation fee and $95.00 per year"
 msgstr " 195$  Плата за Активацию и  95$ на следующий год"
 
-msgid "Account Name testing one two three ok ok ok"
-msgstr ""
+msgid "Account Name"
+msgstr "Имя Пользователя"
 
 msgid "Account Setup"
 msgstr "Настройки Учетной Записи"
@@ -701,9 +698,6 @@ msgstr ""
 msgid ""
 "You do not have enough space on the device, please consider freeing up space."
 msgstr ""
-
-#~ msgid "Account Name"
-#~ msgstr "Имя Пользователя"
 
 #~ msgid "Non member"
 #~ msgstr "Не член клуба"

@@ -5,17 +5,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Do you work?"
-msgstr ""
-
 msgid "$100.00 per month"
 msgstr ""
 
 msgid "$195.00 Activation fee and $95.00 per year"
 msgstr "$195.00 Activation fee and $95.00 per year"
 
-msgid "Account Name testing one two three ok ok ok"
-msgstr ""
+msgid "Account Name"
+msgstr "Account Name"
 
 msgid "Account Setup"
 msgstr "Account Setup"
@@ -688,9 +685,6 @@ msgstr ""
 msgid ""
 "You do not have enough space on the device, please consider freeing up space."
 msgstr ""
-
-#~ msgid "Account Name"
-#~ msgstr "Account Name"
 
 #~ msgid "Non member"
 #~ msgstr "Non member"
