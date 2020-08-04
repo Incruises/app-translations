@@ -4,14 +4,16 @@
 #
 msgid ""
 msgstr ""
-"Last-Translator: Sara Japan <yuisawada@gmail.com>, 2019\n"
-"Language-Team: Japanese (https://www.transifex.com/incruises/teams/55376/"
-"ja/)\n"
+"PO-Revision-Date: 2020-08-04 15:53+0000\n"
+"Last-Translator: Eri Few <teachereriuk@gmail.com>\n"
+"Language-Team: Japanese <http://weblate.example.com/projects/incruises-app/"
+"app/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgid "$100.00 per month"
 msgstr "月額100ドル"
@@ -25,15 +27,11 @@ msgstr "アカウント名"
 msgid "Account Setup"
 msgstr "アカウント設定"
 
-#, fuzzy
-#| msgid "Account settings"
 msgid "Account Settings"
 msgstr "アカウントの設定"
 
-#, fuzzy
-#| msgid "Activate now"
 msgid "Activate Now"
-msgstr "今すぐアクティベート（有効化）"
+msgstr "今すぐアクティベート（有効化）する"
 
 msgid "Add Contact"
 msgstr "連絡先へ追加"
@@ -92,7 +90,7 @@ msgid "Brochures, Presentations and Flyers"
 msgstr "パンフレット、プレゼンテーション資料、チラシ"
 
 msgid "Calculating"
-msgstr ""
+msgstr "計算中"
 
 msgid "Calendar"
 msgstr "カレンダー"
@@ -134,10 +132,8 @@ msgstr "アドレスの確認"
 msgid "Confirm password"
 msgstr "パスワードの確認"
 
-#, fuzzy
-#| msgid "Congratulations, now you just have to do login"
 msgid "Congratulations, now you have to login"
-msgstr "おめでとうございます、あとはログインするだけです"
+msgstr "おめでとうございます。ログインしてください"
 
 msgid "Contacts"
 msgstr "連絡先"
@@ -210,33 +206,23 @@ msgstr "両方を読み込む"
 msgid "Import to device"
 msgstr "端末に読み込む"
 
-#, fuzzy
-#| msgid "Import to incruises"
 msgid "Import to inCruises"
-msgstr "インクルーズに読み込む"
+msgstr "inCruisesにインポートする"
 
-#, fuzzy
-#| msgid "Import your mobile contacts to incruises."
 msgid "Import your mobile contacts to inCruises."
-msgstr "携帯電話の連絡先をインクルーズに読み込む"
+msgstr "携帯電話の連絡先をinCruisesにインポートする。"
 
-#, fuzzy
-#| msgid "Incruises Contacts"
 msgid "inCruises Contacts"
-msgstr "インクルーズ連絡先"
+msgstr "inCruisesの連絡先"
 
-#, fuzzy
-#| msgid "Incruises login app"
 msgid "InCruises login app"
-msgstr "インクルーズログインアプリ"
+msgstr "inCruisesのログインアプリ"
 
-#, fuzzy
-#| msgid "Information Center"
 msgid "Info Center"
 msgstr "情報センター"
 
 msgid "Invitation has been sent!"
-msgstr "招待状が送信されました。"
+msgstr "招待状が送信されました！"
 
 msgid "Invite"
 msgstr "招待"
@@ -321,7 +307,7 @@ msgid "No"
 msgstr "いいえ"
 
 msgid "YOU’RE NOT A PARTNER YET"
-msgstr ""
+msgstr "まだパートナー会員ではありません"
 
 msgid "Not Read"
 msgstr "未読"
@@ -330,6 +316,8 @@ msgid ""
 "To use all the features of this app, you must first upgrade as a Partner or "
 "Partner Member. Click Active Now button to upgrade today!."
 msgstr ""
+"このアプリのすべての機能を利用するには、パートナー会員、またはパートナー・メンバー会員にアップグレードする必要があります。「今すぐアクティベート（有効化）"
+"する」ボタンをクリックしましょう！"
 
 msgid "Notification"
 msgstr "通知"
@@ -421,19 +409,12 @@ msgstr "メールを挿入してください"
 msgid "Please you must insert language"
 msgstr "言語を入力してください"
 
-#, fuzzy
-#| msgid ""
-#| "Please you need linked your incruises account before using facebook login."
 msgid ""
 "Please you need linked your inCruises account before using facebook login."
-msgstr ""
-"Facebookのログインを使用する前にあなたのインクルーズアカウントをリンクする必"
-"要があります。"
+msgstr "Facebookのログインを使用する前に、あなたのinCruisesアカウントとリンクする必要があります。"
 
-#, fuzzy
-#| msgid "Please wait..."
 msgid "Please try again."
-msgstr "お待ちください・・・"
+msgstr "再度お試しください。"
 
 msgid "Professional"
 msgstr "プロフェッショナル"
@@ -511,8 +492,6 @@ msgstr ""
 msgid "Select all"
 msgstr "すべて選択"
 
-#, fuzzy
-#| msgid "Select contacts"
 msgid "Select Contacts"
 msgstr "連絡先を選択する"
 
@@ -553,11 +532,13 @@ msgid ""
 "To use all the features of this app, you must first upgrade as a Partner or "
 "Partner Member. Please visit inCruises to upgrade."
 msgstr ""
+"このアプリのすべての機能を利用するには、パートナー会員、またはパートナー・メンバー会員にアップグレードする必要があります。inCruisesにアクセスし、"
+"アップグレードをしてください。"
 
 msgid ""
 "That Facebook account is not linked to an inCruises account. Please login "
 "with your credentials"
-msgstr ""
+msgstr "Facebookアカウントは、inCruisesアカウントとリンクされていません。正しい情報をご入力の上、ログインしてください"
 
 msgid "The document could not be open"
 msgstr "文書を開くことができませんでした"
@@ -565,8 +546,6 @@ msgstr "文書を開くことができませんでした"
 msgid "Titles"
 msgstr "タイトル"
 
-#, fuzzy
-#| msgid "Track result"
 msgid "Track Results"
 msgstr "結果を追跡"
 
@@ -629,10 +608,8 @@ msgstr "新しい通知があります"
 msgid "You have canceled the invitation."
 msgstr "招待をキャンセルしました。"
 
-#, fuzzy
-#| msgid "Your facebook account has been linked with incruises."
 msgid "Your facebook account has been linked with inCruises."
-msgstr "あなたのFacebookアカウントは、インクルーズとリンクされています。"
+msgstr "あなたのFacebookアカウントは、inCruisesとリンクされています。"
 
 msgid "Zip Code"
 msgstr "郵便番号"
@@ -640,59 +617,49 @@ msgstr "郵便番号"
 msgid "search"
 msgstr "検索"
 
-#, fuzzy
-#| msgid "Import"
 msgid "Support"
-msgstr "読込"
+msgstr "サポート"
 
-#, fuzzy
-#| msgid "Invite"
 msgid "Send Invite"
-msgstr "招待"
+msgstr "招待状を送信"
 
 msgid "App Version"
-msgstr ""
+msgstr "アプリバージョン"
 
 msgid "App Version Status"
-msgstr ""
+msgstr "アプリバージョンのステータス"
 
-#, fuzzy
-#| msgid "Notifications"
 msgid "Push Notifications"
-msgstr "通知"
+msgstr "プッシュ通知"
 
 msgid "Good"
-msgstr ""
+msgstr "良い"
 
 msgid "Bad"
-msgstr ""
+msgstr "悪い"
 
 msgid ""
 "The app needs to be updated, please click here to proceed with the "
 "installation."
-msgstr ""
+msgstr "アプリはアップデートが必要です。こちらをクリックしてインストールを実行してください。"
 
 msgid ""
 "If you are having trouble receiving notifications, please click here to "
 "restore this functionality."
-msgstr ""
+msgstr "通知を受信できない場合は、こちらをクリックして、通知を受信できるよう再設定してください。"
 
-#, fuzzy
-#| msgid "See and manage your incruises contacts"
 msgid "See and manage your inCruises contacts."
-msgstr "あなたのインクルーズ連絡先を見て管理する"
+msgstr "あなたのinCruisesの連絡先を確認・管理する。"
 
-#, fuzzy
-#| msgid "See and manage your profile"
 msgid "See and manage your profile."
-msgstr "自分のプロフィールを見て管理する"
+msgstr "自分のプロフィールを確認・管理する。"
 
 msgid "Your Session has been expired."
-msgstr ""
+msgstr "セッションの期限が切れました。"
 
 msgid ""
 "You do not have enough space on the device, please consider freeing up space."
-msgstr ""
+msgstr "この端末には空き容量が不足しています。空き容量を増やしてください。"
 
 #~ msgid "Non member"
 #~ msgstr "非会員"
