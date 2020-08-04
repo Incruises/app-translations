@@ -16,10 +16,10 @@ msgstr ""
 msgid "Account Setup"
 msgstr ""
 
-msgid "Account settings"
+msgid "Account Settings"
 msgstr ""
 
-msgid "Activate now"
+msgid "Activate Now"
 msgstr ""
 
 msgid "Add Contact"
@@ -67,6 +67,9 @@ msgstr ""
 msgid "Brochures, Presentations and Flyers"
 msgstr ""
 
+msgid "Calculating"
+msgstr ""
+
 msgid "Calendar"
 msgstr ""
 
@@ -105,7 +108,7 @@ msgstr ""
 msgid "Confirm password"
 msgstr ""
 
-msgid "Congratulations, now you just have to do login"
+msgid "Congratulations, now you have to login"
 msgstr ""
 
 msgid "Contacts"
@@ -177,19 +180,19 @@ msgstr ""
 msgid "Import to device"
 msgstr ""
 
-msgid "Import to incruises"
+msgid "Import to inCruises"
 msgstr ""
 
-msgid "Import your mobile contacts to incruises."
+msgid "Import your mobile contacts to inCruises."
 msgstr ""
 
-msgid "Incruises Contacts"
+msgid "inCruises Contacts"
 msgstr ""
 
-msgid "Incruises login app"
+msgid "InCruises login app"
 msgstr ""
 
-msgid "Information Center"
+msgid "Info Center"
 msgstr ""
 
 msgid "Invitation has been sent!"
@@ -276,17 +279,14 @@ msgstr ""
 msgid "No"
 msgstr ""
 
-msgid "Non member"
+msgid "YOU’RE NOT A PARTNER YET"
 msgstr ""
 
 msgid "Not Read"
 msgstr ""
 
 msgid ""
-"Not a member, to use all the features of this application you must be a "
-"member.\n"
-"\t\t\t\t\t\tUpgrade today, click below and we will redirect you to "
-"incruises so you can make the payments."
+"To use all the features of this app, you must first upgrade as a Partner or Partner Member. Click Active Now button to upgrade today!."
 msgstr ""
 
 msgid "Notification"
@@ -380,7 +380,10 @@ msgstr ""
 msgid "Please you must insert language"
 msgstr ""
 
-msgid "Please you need linked your incruises account before using facebook login."
+msgid "Please you need linked your inCruises account before using facebook login."
+msgstr ""
+
+msgid "Please try again."
 msgstr ""
 
 msgid "Professional"
@@ -435,12 +438,6 @@ msgid ""
 "information and lots of helpful tips to help you build your business."
 msgstr ""
 
-msgid "See and manage your incruises contacts"
-msgstr ""
-
-msgid "See and manage your profile"
-msgstr ""
-
 msgid ""
 "See how far your Marketing REACH has spread all over the world and send new "
 "invitations."
@@ -457,7 +454,7 @@ msgstr ""
 msgid "Select all"
 msgstr ""
 
-msgid "Select contacts"
+msgid "Select Contacts"
 msgstr ""
 
 msgid "Settings"
@@ -492,13 +489,19 @@ msgstr ""
 msgid "Team Rankings"
 msgstr ""
 
+msgid "To use all the features of this app, you must first upgrade as a Partner or Partner Member. Please visit inCruises to upgrade."
+msgstr ""
+
+msgid "That Facebook account is not linked to an inCruises account. Please login with your credentials"
+msgstr ""
+
 msgid "The document could not be open"
 msgstr ""
 
 msgid "Titles"
 msgstr ""
 
-msgid "Track result"
+msgid "Track Results"
 msgstr ""
 
 msgid "Training"
@@ -556,11 +559,50 @@ msgstr ""
 msgid "You have canceled the invitation."
 msgstr ""
 
-msgid "Your facebook account has been linked with incruises."
+msgid "Your facebook account has been linked with inCruises."
 msgstr ""
 
 msgid "Zip Code"
 msgstr ""
 
 msgid "search"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "Send Invite"
+msgstr ""
+
+msgid "App Version"
+msgstr ""
+
+msgid "App Version Status"
+msgstr ""
+
+msgid "Push Notifications"
+msgstr ""
+
+msgid "Good"
+msgstr ""
+
+msgid "Bad"
+msgstr ""
+
+msgid "The app needs to be updated, please click here to proceed with the installation."
+msgstr ""
+
+msgid "If you are having trouble receiving notifications, please click here to restore this functionality."
+msgstr ""
+
+msgid "See and manage your inCruises contacts."
+msgstr ""
+
+msgid "See and manage your profile."
+msgstr ""
+
+msgid "Your Session has been expired."
+msgstr ""
+
+msgid "You do not have enough space on the device, please consider freeing up space."
 msgstr ""
