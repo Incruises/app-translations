@@ -3,16 +3,13 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Do you work?"
-msgstr ""
-
 msgid "$100.00 per month"
 msgstr ""
 
 msgid "$195.00 Activation fee and $95.00 per year"
 msgstr ""
 
-msgid "Account Name testing one two three ok ok ok"
+msgid "Account Name"
 msgstr ""
 
 msgid "Account Setup"
