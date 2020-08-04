@@ -10,7 +10,7 @@ msgstr ""
 msgid "$195.00 Activation fee and $95.00 per year"
 msgstr ""
 
-msgid "Account Name testing one two three"
+msgid "Account Name testing one two three ok ok ok"
 msgstr ""
 
 msgid "Account Setup"
