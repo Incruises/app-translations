@@ -6,7 +6,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "$100.00 per month"
-msgstr "$100.00 per month"
+msgstr ""
 
 msgid "$195.00 Activation fee and $95.00 per year"
 msgstr "$195.00 Activation fee and $95.00 per year"
